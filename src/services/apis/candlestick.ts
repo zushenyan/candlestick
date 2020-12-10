@@ -1,4 +1,4 @@
-type _KlineResponse = [
+export type Candlestick = [
   number,
   string,
   string,
@@ -13,9 +13,9 @@ type _KlineResponse = [
   string
 ];
 
-export type KlinesResponse = Array<Array<_KlineResponse>>;
+export type CandlestickResponse = Array<Candlestick>;
 
-export const getKlines = async (): Promise<KlinesResponse> => {
+export const getCandlesticks = async (): Promise<CandlestickResponse> => {
   const response = await fetch(
     'https://www.binance.com/api/v1/klines?symbol=BTCUSDT&interval=1m'
   );

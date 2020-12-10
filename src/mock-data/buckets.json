@@ -1,0 +1,3502 @@
+[
+  {
+    "time": 1607504340000,
+    "openingPrice": 17958.27,
+    "highestPrice": 17966.85,
+    "lowestPrice": 17949.83,
+    "closingPrice": 17955.78
+  },
+  {
+    "time": 1607504400000,
+    "openingPrice": 17955.78,
+    "highestPrice": 17959.26,
+    "lowestPrice": 17930.51,
+    "closingPrice": 17940.52
+  },
+  {
+    "time": 1607504460000,
+    "openingPrice": 17940.52,
+    "highestPrice": 17952.5,
+    "lowestPrice": 17928.46,
+    "closingPrice": 17939.64
+  },
+  {
+    "time": 1607504520000,
+    "openingPrice": 17939.65,
+    "highestPrice": 17953.55,
+    "lowestPrice": 17936.02,
+    "closingPrice": 17944.66
+  },
+  {
+    "time": 1607504580000,
+    "openingPrice": 17944.66,
+    "highestPrice": 17945.39,
+    "lowestPrice": 17936.46,
+    "closingPrice": 17939.87
+  },
+  {
+    "time": 1607504640000,
+    "openingPrice": 17939.87,
+    "highestPrice": 17954.73,
+    "lowestPrice": 17939.87,
+    "closingPrice": 17953.63
+  },
+  {
+    "time": 1607504700000,
+    "openingPrice": 17953.63,
+    "highestPrice": 17970,
+    "lowestPrice": 17950.79,
+    "closingPrice": 17969.98
+  },
+  {
+    "time": 1607504760000,
+    "openingPrice": 17969.99,
+    "highestPrice": 17989.12,
+    "lowestPrice": 17962.33,
+    "closingPrice": 17987.45
+  },
+  {
+    "time": 1607504820000,
+    "openingPrice": 17987.45,
+    "highestPrice": 18050,
+    "lowestPrice": 17984.33,
+    "closingPrice": 18020.9
+  },
+  {
+    "time": 1607504880000,
+    "openingPrice": 18020.96,
+    "highestPrice": 18039,
+    "lowestPrice": 18000.4,
+    "closingPrice": 18010.06
+  },
+  {
+    "time": 1607504940000,
+    "openingPrice": 18010.06,
+    "highestPrice": 18046.33,
+    "lowestPrice": 18009.21,
+    "closingPrice": 18044.22
+  },
+  {
+    "time": 1607505000000,
+    "openingPrice": 18044.28,
+    "highestPrice": 18066.16,
+    "lowestPrice": 18044.28,
+    "closingPrice": 18050.73
+  },
+  {
+    "time": 1607505060000,
+    "openingPrice": 18052.35,
+    "highestPrice": 18057.5,
+    "lowestPrice": 18023.61,
+    "closingPrice": 18028.63
+  },
+  {
+    "time": 1607505120000,
+    "openingPrice": 18028.63,
+    "highestPrice": 18035.46,
+    "lowestPrice": 18012.5,
+    "closingPrice": 18017.69
+  },
+  {
+    "time": 1607505180000,
+    "openingPrice": 18017.69,
+    "highestPrice": 18019.82,
+    "lowestPrice": 17994.72,
+    "closingPrice": 18011.61
+  },
+  {
+    "time": 1607505240000,
+    "openingPrice": 18011.62,
+    "highestPrice": 18015.08,
+    "lowestPrice": 18002.32,
+    "closingPrice": 18003.75
+  },
+  {
+    "time": 1607505300000,
+    "openingPrice": 18003.74,
+    "highestPrice": 18052.99,
+    "lowestPrice": 18003.74,
+    "closingPrice": 18043.24
+  },
+  {
+    "time": 1607505360000,
+    "openingPrice": 18043,
+    "highestPrice": 18045.73,
+    "lowestPrice": 18016.24,
+    "closingPrice": 18032.9
+  },
+  {
+    "time": 1607505420000,
+    "openingPrice": 18032.9,
+    "highestPrice": 18040.23,
+    "lowestPrice": 18016.3,
+    "closingPrice": 18021.34
+  },
+  {
+    "time": 1607505480000,
+    "openingPrice": 18021.34,
+    "highestPrice": 18035,
+    "lowestPrice": 18020,
+    "closingPrice": 18020
+  },
+  {
+    "time": 1607505540000,
+    "openingPrice": 18020,
+    "highestPrice": 18020.18,
+    "lowestPrice": 18008.07,
+    "closingPrice": 18010.07
+  },
+  {
+    "time": 1607505600000,
+    "openingPrice": 18010.07,
+    "highestPrice": 18026.11,
+    "lowestPrice": 18008.07,
+    "closingPrice": 18019.01
+  },
+  {
+    "time": 1607505660000,
+    "openingPrice": 18019.01,
+    "highestPrice": 18054.83,
+    "lowestPrice": 18019,
+    "closingPrice": 18052.38
+  },
+  {
+    "time": 1607505720000,
+    "openingPrice": 18051.85,
+    "highestPrice": 18063.28,
+    "lowestPrice": 18050.92,
+    "closingPrice": 18060.83
+  },
+  {
+    "time": 1607505780000,
+    "openingPrice": 18060.83,
+    "highestPrice": 18060.83,
+    "lowestPrice": 18044,
+    "closingPrice": 18056.81
+  },
+  {
+    "time": 1607505840000,
+    "openingPrice": 18056.81,
+    "highestPrice": 18097,
+    "lowestPrice": 18044.85,
+    "closingPrice": 18094.94
+  },
+  {
+    "time": 1607505900000,
+    "openingPrice": 18094.22,
+    "highestPrice": 18108.64,
+    "lowestPrice": 18059.13,
+    "closingPrice": 18062.65
+  },
+  {
+    "time": 1607505960000,
+    "openingPrice": 18062.65,
+    "highestPrice": 18076.66,
+    "lowestPrice": 18061.05,
+    "closingPrice": 18074.52
+  },
+  {
+    "time": 1607506020000,
+    "openingPrice": 18074.28,
+    "highestPrice": 18080.01,
+    "lowestPrice": 18054.22,
+    "closingPrice": 18075.73
+  },
+  {
+    "time": 1607506080000,
+    "openingPrice": 18075.74,
+    "highestPrice": 18104.2,
+    "lowestPrice": 18071.02,
+    "closingPrice": 18094.49
+  },
+  {
+    "time": 1607506140000,
+    "openingPrice": 18094.49,
+    "highestPrice": 18097.99,
+    "lowestPrice": 18077.19,
+    "closingPrice": 18085.41
+  },
+  {
+    "time": 1607506200000,
+    "openingPrice": 18085.41,
+    "highestPrice": 18095.52,
+    "lowestPrice": 18050,
+    "closingPrice": 18060.79
+  },
+  {
+    "time": 1607506260000,
+    "openingPrice": 18060.8,
+    "highestPrice": 18060.8,
+    "lowestPrice": 18035.01,
+    "closingPrice": 18037.56
+  },
+  {
+    "time": 1607506320000,
+    "openingPrice": 18037.57,
+    "highestPrice": 18037.76,
+    "lowestPrice": 17989.27,
+    "closingPrice": 18009.15
+  },
+  {
+    "time": 1607506380000,
+    "openingPrice": 18009.15,
+    "highestPrice": 18032.51,
+    "lowestPrice": 18005.78,
+    "closingPrice": 18030.25
+  },
+  {
+    "time": 1607506440000,
+    "openingPrice": 18030.25,
+    "highestPrice": 18030.26,
+    "lowestPrice": 18011.61,
+    "closingPrice": 18011.71
+  },
+  {
+    "time": 1607506500000,
+    "openingPrice": 18011.7,
+    "highestPrice": 18011.7,
+    "lowestPrice": 17994.22,
+    "closingPrice": 17999.99
+  },
+  {
+    "time": 1607506560000,
+    "openingPrice": 17999.99,
+    "highestPrice": 18000,
+    "lowestPrice": 17958.82,
+    "closingPrice": 17960.36
+  },
+  {
+    "time": 1607506620000,
+    "openingPrice": 17960.36,
+    "highestPrice": 17987.81,
+    "lowestPrice": 17958.82,
+    "closingPrice": 17976.57
+  },
+  {
+    "time": 1607506680000,
+    "openingPrice": 17976.57,
+    "highestPrice": 18000.59,
+    "lowestPrice": 17976.57,
+    "closingPrice": 17990.14
+  },
+  {
+    "time": 1607506740000,
+    "openingPrice": 17990.14,
+    "highestPrice": 18002.42,
+    "lowestPrice": 17982.54,
+    "closingPrice": 18002.41
+  },
+  {
+    "time": 1607506800000,
+    "openingPrice": 18002.41,
+    "highestPrice": 18005.95,
+    "lowestPrice": 17992.72,
+    "closingPrice": 17994.02
+  },
+  {
+    "time": 1607506860000,
+    "openingPrice": 17994.63,
+    "highestPrice": 18019.17,
+    "lowestPrice": 17993.42,
+    "closingPrice": 18014.67
+  },
+  {
+    "time": 1607506920000,
+    "openingPrice": 18015.21,
+    "highestPrice": 18049,
+    "lowestPrice": 18014.68,
+    "closingPrice": 18041.84
+  },
+  {
+    "time": 1607506980000,
+    "openingPrice": 18041.82,
+    "highestPrice": 18052.54,
+    "lowestPrice": 18023.38,
+    "closingPrice": 18023.38
+  },
+  {
+    "time": 1607507040000,
+    "openingPrice": 18023.65,
+    "highestPrice": 18034.99,
+    "lowestPrice": 18013.1,
+    "closingPrice": 18022.94
+  },
+  {
+    "time": 1607507100000,
+    "openingPrice": 18022.94,
+    "highestPrice": 18042.58,
+    "lowestPrice": 18022.94,
+    "closingPrice": 18022.95
+  },
+  {
+    "time": 1607507160000,
+    "openingPrice": 18022.94,
+    "highestPrice": 18022.94,
+    "lowestPrice": 17991.13,
+    "closingPrice": 17991.13
+  },
+  {
+    "time": 1607507220000,
+    "openingPrice": 17991.13,
+    "highestPrice": 18002.72,
+    "lowestPrice": 17976.7,
+    "closingPrice": 17983.25
+  },
+  {
+    "time": 1607507280000,
+    "openingPrice": 17983.24,
+    "highestPrice": 17995,
+    "lowestPrice": 17977.47,
+    "closingPrice": 17985.91
+  },
+  {
+    "time": 1607507340000,
+    "openingPrice": 17986.47,
+    "highestPrice": 17987.3,
+    "lowestPrice": 17964.22,
+    "closingPrice": 17965
+  },
+  {
+    "time": 1607507400000,
+    "openingPrice": 17965.01,
+    "highestPrice": 17970,
+    "lowestPrice": 17944.8,
+    "closingPrice": 17945.41
+  },
+  {
+    "time": 1607507460000,
+    "openingPrice": 17945.42,
+    "highestPrice": 17962.32,
+    "lowestPrice": 17940.14,
+    "closingPrice": 17945.62
+  },
+  {
+    "time": 1607507520000,
+    "openingPrice": 17945.62,
+    "highestPrice": 17952.99,
+    "lowestPrice": 17928.5,
+    "closingPrice": 17929.35
+  },
+  {
+    "time": 1607507580000,
+    "openingPrice": 17929.35,
+    "highestPrice": 17939.11,
+    "lowestPrice": 17919.93,
+    "closingPrice": 17920.31
+  },
+  {
+    "time": 1607507640000,
+    "openingPrice": 17920.31,
+    "highestPrice": 17984.22,
+    "lowestPrice": 17920,
+    "closingPrice": 17982.49
+  },
+  {
+    "time": 1607507700000,
+    "openingPrice": 17982.48,
+    "highestPrice": 18030.14,
+    "lowestPrice": 17969.61,
+    "closingPrice": 18030
+  },
+  {
+    "time": 1607507760000,
+    "openingPrice": 18030.01,
+    "highestPrice": 18044.22,
+    "lowestPrice": 18009.5,
+    "closingPrice": 18009.82
+  },
+  {
+    "time": 1607507820000,
+    "openingPrice": 18009.81,
+    "highestPrice": 18018.74,
+    "lowestPrice": 18003.5,
+    "closingPrice": 18010.78
+  },
+  {
+    "time": 1607507880000,
+    "openingPrice": 18009.85,
+    "highestPrice": 18062,
+    "lowestPrice": 18009.85,
+    "closingPrice": 18062
+  },
+  {
+    "time": 1607507940000,
+    "openingPrice": 18058.79,
+    "highestPrice": 18074.22,
+    "lowestPrice": 18036.34,
+    "closingPrice": 18036.34
+  },
+  {
+    "time": 1607508000000,
+    "openingPrice": 18040.98,
+    "highestPrice": 18074.22,
+    "lowestPrice": 18037.18,
+    "closingPrice": 18049.63
+  },
+  {
+    "time": 1607508060000,
+    "openingPrice": 18050.81,
+    "highestPrice": 18051.72,
+    "lowestPrice": 18016.1,
+    "closingPrice": 18017.05
+  },
+  {
+    "time": 1607508120000,
+    "openingPrice": 18017.05,
+    "highestPrice": 18035,
+    "lowestPrice": 18003.79,
+    "closingPrice": 18027
+  },
+  {
+    "time": 1607508180000,
+    "openingPrice": 18027.01,
+    "highestPrice": 18033.5,
+    "lowestPrice": 17987.18,
+    "closingPrice": 18025.12
+  },
+  {
+    "time": 1607508240000,
+    "openingPrice": 18025.11,
+    "highestPrice": 18026.02,
+    "lowestPrice": 18000.04,
+    "closingPrice": 18003.94
+  },
+  {
+    "time": 1607508300000,
+    "openingPrice": 18003.94,
+    "highestPrice": 18010.91,
+    "lowestPrice": 17992,
+    "closingPrice": 17994.2
+  },
+  {
+    "time": 1607508360000,
+    "openingPrice": 17992.83,
+    "highestPrice": 18029.99,
+    "lowestPrice": 17981.44,
+    "closingPrice": 18026.1
+  },
+  {
+    "time": 1607508420000,
+    "openingPrice": 18026.1,
+    "highestPrice": 18026.31,
+    "lowestPrice": 18000.67,
+    "closingPrice": 18006.14
+  },
+  {
+    "time": 1607508480000,
+    "openingPrice": 18005.71,
+    "highestPrice": 18020.1,
+    "lowestPrice": 17999.82,
+    "closingPrice": 18004.68
+  },
+  {
+    "time": 1607508540000,
+    "openingPrice": 18004.67,
+    "highestPrice": 18004.67,
+    "lowestPrice": 17991.01,
+    "closingPrice": 17992.46
+  },
+  {
+    "time": 1607508600000,
+    "openingPrice": 17992.47,
+    "highestPrice": 18015.42,
+    "lowestPrice": 17980.92,
+    "closingPrice": 18003.57
+  },
+  {
+    "time": 1607508660000,
+    "openingPrice": 18003.58,
+    "highestPrice": 18003.58,
+    "lowestPrice": 17988.04,
+    "closingPrice": 17999.03
+  },
+  {
+    "time": 1607508720000,
+    "openingPrice": 17999.04,
+    "highestPrice": 17999.04,
+    "lowestPrice": 17988.07,
+    "closingPrice": 17992.29
+  },
+  {
+    "time": 1607508780000,
+    "openingPrice": 17992.29,
+    "highestPrice": 17993.05,
+    "lowestPrice": 17978.16,
+    "closingPrice": 17987.51
+  },
+  {
+    "time": 1607508840000,
+    "openingPrice": 17988.06,
+    "highestPrice": 17990,
+    "lowestPrice": 17980.57,
+    "closingPrice": 17980.57
+  },
+  {
+    "time": 1607508900000,
+    "openingPrice": 17980.57,
+    "highestPrice": 18019.76,
+    "lowestPrice": 17978.61,
+    "closingPrice": 18016.07
+  },
+  {
+    "time": 1607508960000,
+    "openingPrice": 18016.08,
+    "highestPrice": 18025,
+    "lowestPrice": 18002,
+    "closingPrice": 18004.66
+  },
+  {
+    "time": 1607509020000,
+    "openingPrice": 18004.62,
+    "highestPrice": 18018.32,
+    "lowestPrice": 18000.99,
+    "closingPrice": 18006.19
+  },
+  {
+    "time": 1607509080000,
+    "openingPrice": 18006.19,
+    "highestPrice": 18007.69,
+    "lowestPrice": 17984.47,
+    "closingPrice": 17990.37
+  },
+  {
+    "time": 1607509140000,
+    "openingPrice": 17990.37,
+    "highestPrice": 18018.07,
+    "lowestPrice": 17990.37,
+    "closingPrice": 18008.24
+  },
+  {
+    "time": 1607509200000,
+    "openingPrice": 18008.43,
+    "highestPrice": 18033.08,
+    "lowestPrice": 18003.41,
+    "closingPrice": 18033.08
+  },
+  {
+    "time": 1607509260000,
+    "openingPrice": 18033.08,
+    "highestPrice": 18063.18,
+    "lowestPrice": 18033.08,
+    "closingPrice": 18056.67
+  },
+  {
+    "time": 1607509320000,
+    "openingPrice": 18056.67,
+    "highestPrice": 18100,
+    "lowestPrice": 18041.5,
+    "closingPrice": 18068.38
+  },
+  {
+    "time": 1607509380000,
+    "openingPrice": 18068.37,
+    "highestPrice": 18088.99,
+    "lowestPrice": 18063.16,
+    "closingPrice": 18080.09
+  },
+  {
+    "time": 1607509440000,
+    "openingPrice": 18080.09,
+    "highestPrice": 18090.5,
+    "lowestPrice": 18070.49,
+    "closingPrice": 18088.02
+  },
+  {
+    "time": 1607509500000,
+    "openingPrice": 18088.46,
+    "highestPrice": 18156.46,
+    "lowestPrice": 18086.52,
+    "closingPrice": 18132.69
+  },
+  {
+    "time": 1607509560000,
+    "openingPrice": 18141,
+    "highestPrice": 18141,
+    "lowestPrice": 18083.48,
+    "closingPrice": 18084.32
+  },
+  {
+    "time": 1607509620000,
+    "openingPrice": 18084.32,
+    "highestPrice": 18117.03,
+    "lowestPrice": 18082.69,
+    "closingPrice": 18098.65
+  },
+  {
+    "time": 1607509680000,
+    "openingPrice": 18098.71,
+    "highestPrice": 18107,
+    "lowestPrice": 18090,
+    "closingPrice": 18096.26
+  },
+  {
+    "time": 1607509740000,
+    "openingPrice": 18096.25,
+    "highestPrice": 18110.63,
+    "lowestPrice": 18096.25,
+    "closingPrice": 18105.26
+  },
+  {
+    "time": 1607509800000,
+    "openingPrice": 18105.51,
+    "highestPrice": 18124.25,
+    "lowestPrice": 18093.05,
+    "closingPrice": 18120.25
+  },
+  {
+    "time": 1607509860000,
+    "openingPrice": 18120.37,
+    "highestPrice": 18143.44,
+    "lowestPrice": 18116.98,
+    "closingPrice": 18140.23
+  },
+  {
+    "time": 1607509920000,
+    "openingPrice": 18140.23,
+    "highestPrice": 18140.23,
+    "lowestPrice": 18120,
+    "closingPrice": 18126.31
+  },
+  {
+    "time": 1607509980000,
+    "openingPrice": 18126.42,
+    "highestPrice": 18170,
+    "lowestPrice": 18126.42,
+    "closingPrice": 18169.99
+  },
+  {
+    "time": 1607510040000,
+    "openingPrice": 18170,
+    "highestPrice": 18218,
+    "lowestPrice": 18170,
+    "closingPrice": 18191.28
+  },
+  {
+    "time": 1607510100000,
+    "openingPrice": 18190.58,
+    "highestPrice": 18213.47,
+    "lowestPrice": 18188.81,
+    "closingPrice": 18213.47
+  },
+  {
+    "time": 1607510160000,
+    "openingPrice": 18213.48,
+    "highestPrice": 18240,
+    "lowestPrice": 18206.24,
+    "closingPrice": 18211.19
+  },
+  {
+    "time": 1607510220000,
+    "openingPrice": 18211.2,
+    "highestPrice": 18249,
+    "lowestPrice": 18211.2,
+    "closingPrice": 18214.51
+  },
+  {
+    "time": 1607510280000,
+    "openingPrice": 18214.76,
+    "highestPrice": 18236.5,
+    "lowestPrice": 18198.71,
+    "closingPrice": 18198.72
+  },
+  {
+    "time": 1607510340000,
+    "openingPrice": 18198.72,
+    "highestPrice": 18245,
+    "lowestPrice": 18198.71,
+    "closingPrice": 18212.99
+  },
+  {
+    "time": 1607510400000,
+    "openingPrice": 18210.47,
+    "highestPrice": 18217.52,
+    "lowestPrice": 18203.25,
+    "closingPrice": 18211.27
+  },
+  {
+    "time": 1607510460000,
+    "openingPrice": 18211.3,
+    "highestPrice": 18214.52,
+    "lowestPrice": 18180,
+    "closingPrice": 18183.09
+  },
+  {
+    "time": 1607510520000,
+    "openingPrice": 18183.09,
+    "highestPrice": 18190,
+    "lowestPrice": 18171.99,
+    "closingPrice": 18172.74
+  },
+  {
+    "time": 1607510580000,
+    "openingPrice": 18172.75,
+    "highestPrice": 18197.54,
+    "lowestPrice": 18172.75,
+    "closingPrice": 18192.69
+  },
+  {
+    "time": 1607510640000,
+    "openingPrice": 18192.7,
+    "highestPrice": 18197.44,
+    "lowestPrice": 18174.91,
+    "closingPrice": 18180.89
+  },
+  {
+    "time": 1607510700000,
+    "openingPrice": 18180.89,
+    "highestPrice": 18190,
+    "lowestPrice": 18178,
+    "closingPrice": 18187.95
+  },
+  {
+    "time": 1607510760000,
+    "openingPrice": 18188.38,
+    "highestPrice": 18190.13,
+    "lowestPrice": 18184.96,
+    "closingPrice": 18187.57
+  },
+  {
+    "time": 1607510820000,
+    "openingPrice": 18187.56,
+    "highestPrice": 18215.04,
+    "lowestPrice": 18187.56,
+    "closingPrice": 18212.82
+  },
+  {
+    "time": 1607510880000,
+    "openingPrice": 18212.9,
+    "highestPrice": 18223.5,
+    "lowestPrice": 18211.67,
+    "closingPrice": 18223.19
+  },
+  {
+    "time": 1607510940000,
+    "openingPrice": 18223.19,
+    "highestPrice": 18224,
+    "lowestPrice": 18208.79,
+    "closingPrice": 18209.46
+  },
+  {
+    "time": 1607511000000,
+    "openingPrice": 18209.47,
+    "highestPrice": 18213.82,
+    "lowestPrice": 18194.5,
+    "closingPrice": 18207.84
+  },
+  {
+    "time": 1607511060000,
+    "openingPrice": 18207.85,
+    "highestPrice": 18209.95,
+    "lowestPrice": 18190.13,
+    "closingPrice": 18196.41
+  },
+  {
+    "time": 1607511120000,
+    "openingPrice": 18196.4,
+    "highestPrice": 18196.41,
+    "lowestPrice": 18165.61,
+    "closingPrice": 18173.08
+  },
+  {
+    "time": 1607511180000,
+    "openingPrice": 18171.89,
+    "highestPrice": 18197.9,
+    "lowestPrice": 18169.45,
+    "closingPrice": 18190.2
+  },
+  {
+    "time": 1607511240000,
+    "openingPrice": 18190.21,
+    "highestPrice": 18199.12,
+    "lowestPrice": 18180.46,
+    "closingPrice": 18184.81
+  },
+  {
+    "time": 1607511300000,
+    "openingPrice": 18184.8,
+    "highestPrice": 18195,
+    "lowestPrice": 18180,
+    "closingPrice": 18193.42
+  },
+  {
+    "time": 1607511360000,
+    "openingPrice": 18193.42,
+    "highestPrice": 18198.91,
+    "lowestPrice": 18186,
+    "closingPrice": 18193.39
+  },
+  {
+    "time": 1607511420000,
+    "openingPrice": 18193.4,
+    "highestPrice": 18214.63,
+    "lowestPrice": 18193.39,
+    "closingPrice": 18210.07
+  },
+  {
+    "time": 1607511480000,
+    "openingPrice": 18210.06,
+    "highestPrice": 18220,
+    "lowestPrice": 18208.68,
+    "closingPrice": 18209.41
+  },
+  {
+    "time": 1607511540000,
+    "openingPrice": 18209.36,
+    "highestPrice": 18237,
+    "lowestPrice": 18209.23,
+    "closingPrice": 18234.65
+  },
+  {
+    "time": 1607511600000,
+    "openingPrice": 18234.66,
+    "highestPrice": 18245.55,
+    "lowestPrice": 18229.44,
+    "closingPrice": 18231.08
+  },
+  {
+    "time": 1607511660000,
+    "openingPrice": 18231.07,
+    "highestPrice": 18241.5,
+    "lowestPrice": 18227.36,
+    "closingPrice": 18238.22
+  },
+  {
+    "time": 1607511720000,
+    "openingPrice": 18238.23,
+    "highestPrice": 18241.76,
+    "lowestPrice": 18219.29,
+    "closingPrice": 18223.74
+  },
+  {
+    "time": 1607511780000,
+    "openingPrice": 18223.74,
+    "highestPrice": 18229.79,
+    "lowestPrice": 18223.69,
+    "closingPrice": 18224
+  },
+  {
+    "time": 1607511840000,
+    "openingPrice": 18224.01,
+    "highestPrice": 18229.31,
+    "lowestPrice": 18223.69,
+    "closingPrice": 18227.58
+  },
+  {
+    "time": 1607511900000,
+    "openingPrice": 18227.58,
+    "highestPrice": 18227.58,
+    "lowestPrice": 18202.43,
+    "closingPrice": 18205.14
+  },
+  {
+    "time": 1607511960000,
+    "openingPrice": 18203.79,
+    "highestPrice": 18205.49,
+    "lowestPrice": 18190.03,
+    "closingPrice": 18196.25
+  },
+  {
+    "time": 1607512020000,
+    "openingPrice": 18196.25,
+    "highestPrice": 18196.26,
+    "lowestPrice": 18184.39,
+    "closingPrice": 18188.27
+  },
+  {
+    "time": 1607512080000,
+    "openingPrice": 18188.28,
+    "highestPrice": 18202.36,
+    "lowestPrice": 18180.72,
+    "closingPrice": 18193.78
+  },
+  {
+    "time": 1607512140000,
+    "openingPrice": 18193.77,
+    "highestPrice": 18228,
+    "lowestPrice": 18193.77,
+    "closingPrice": 18214.54
+  },
+  {
+    "time": 1607512200000,
+    "openingPrice": 18214.54,
+    "highestPrice": 18218.96,
+    "lowestPrice": 18206.23,
+    "closingPrice": 18210.71
+  },
+  {
+    "time": 1607512260000,
+    "openingPrice": 18210.72,
+    "highestPrice": 18226.42,
+    "lowestPrice": 18210.72,
+    "closingPrice": 18226.41
+  },
+  {
+    "time": 1607512320000,
+    "openingPrice": 18226.41,
+    "highestPrice": 18294.19,
+    "lowestPrice": 18223.92,
+    "closingPrice": 18280.53
+  },
+  {
+    "time": 1607512380000,
+    "openingPrice": 18280.54,
+    "highestPrice": 18296.2,
+    "lowestPrice": 18274.62,
+    "closingPrice": 18291.97
+  },
+  {
+    "time": 1607512440000,
+    "openingPrice": 18291.97,
+    "highestPrice": 18339,
+    "lowestPrice": 18280,
+    "closingPrice": 18331.2
+  },
+  {
+    "time": 1607512500000,
+    "openingPrice": 18331.2,
+    "highestPrice": 18379.87,
+    "lowestPrice": 18326.77,
+    "closingPrice": 18326.78
+  },
+  {
+    "time": 1607512560000,
+    "openingPrice": 18326.78,
+    "highestPrice": 18343.49,
+    "lowestPrice": 18291.94,
+    "closingPrice": 18298.23
+  },
+  {
+    "time": 1607512620000,
+    "openingPrice": 18298.26,
+    "highestPrice": 18327.98,
+    "lowestPrice": 18297.74,
+    "closingPrice": 18300.17
+  },
+  {
+    "time": 1607512680000,
+    "openingPrice": 18300.16,
+    "highestPrice": 18312.68,
+    "lowestPrice": 18295,
+    "closingPrice": 18299.55
+  },
+  {
+    "time": 1607512740000,
+    "openingPrice": 18299.55,
+    "highestPrice": 18305.95,
+    "lowestPrice": 18281.49,
+    "closingPrice": 18288.49
+  },
+  {
+    "time": 1607512800000,
+    "openingPrice": 18288.31,
+    "highestPrice": 18303.97,
+    "lowestPrice": 18286.15,
+    "closingPrice": 18293.93
+  },
+  {
+    "time": 1607512860000,
+    "openingPrice": 18294.08,
+    "highestPrice": 18300.48,
+    "lowestPrice": 18259,
+    "closingPrice": 18286.65
+  },
+  {
+    "time": 1607512920000,
+    "openingPrice": 18286.65,
+    "highestPrice": 18287.49,
+    "lowestPrice": 18267.5,
+    "closingPrice": 18279.99
+  },
+  {
+    "time": 1607512980000,
+    "openingPrice": 18279.98,
+    "highestPrice": 18279.98,
+    "lowestPrice": 18265.4,
+    "closingPrice": 18277.39
+  },
+  {
+    "time": 1607513040000,
+    "openingPrice": 18277.39,
+    "highestPrice": 18300,
+    "lowestPrice": 18274.35,
+    "closingPrice": 18288.21
+  },
+  {
+    "time": 1607513100000,
+    "openingPrice": 18288.21,
+    "highestPrice": 18288.22,
+    "lowestPrice": 18273.01,
+    "closingPrice": 18273.77
+  },
+  {
+    "time": 1607513160000,
+    "openingPrice": 18273.77,
+    "highestPrice": 18286.1,
+    "lowestPrice": 18270.52,
+    "closingPrice": 18273.38
+  },
+  {
+    "time": 1607513220000,
+    "openingPrice": 18273.48,
+    "highestPrice": 18273.67,
+    "lowestPrice": 18262.84,
+    "closingPrice": 18265.56
+  },
+  {
+    "time": 1607513280000,
+    "openingPrice": 18266.05,
+    "highestPrice": 18287,
+    "lowestPrice": 18266.05,
+    "closingPrice": 18284.35
+  },
+  {
+    "time": 1607513340000,
+    "openingPrice": 18284.61,
+    "highestPrice": 18302.58,
+    "lowestPrice": 18284.6,
+    "closingPrice": 18296.19
+  },
+  {
+    "time": 1607513400000,
+    "openingPrice": 18296.18,
+    "highestPrice": 18300.96,
+    "lowestPrice": 18267.2,
+    "closingPrice": 18267.2
+  },
+  {
+    "time": 1607513460000,
+    "openingPrice": 18267.2,
+    "highestPrice": 18269,
+    "lowestPrice": 18240,
+    "closingPrice": 18242.34
+  },
+  {
+    "time": 1607513520000,
+    "openingPrice": 18242.34,
+    "highestPrice": 18263.15,
+    "lowestPrice": 18240.68,
+    "closingPrice": 18260.2
+  },
+  {
+    "time": 1607513580000,
+    "openingPrice": 18260.32,
+    "highestPrice": 18260.9,
+    "lowestPrice": 18245,
+    "closingPrice": 18245.26
+  },
+  {
+    "time": 1607513640000,
+    "openingPrice": 18245.27,
+    "highestPrice": 18257.5,
+    "lowestPrice": 18245,
+    "closingPrice": 18247.31
+  },
+  {
+    "time": 1607513700000,
+    "openingPrice": 18247.32,
+    "highestPrice": 18257.35,
+    "lowestPrice": 18246,
+    "closingPrice": 18254.27
+  },
+  {
+    "time": 1607513760000,
+    "openingPrice": 18254.27,
+    "highestPrice": 18270.51,
+    "lowestPrice": 18254.27,
+    "closingPrice": 18267.25
+  },
+  {
+    "time": 1607513820000,
+    "openingPrice": 18267.53,
+    "highestPrice": 18296.25,
+    "lowestPrice": 18266.89,
+    "closingPrice": 18266.89
+  },
+  {
+    "time": 1607513880000,
+    "openingPrice": 18267.25,
+    "highestPrice": 18270.99,
+    "lowestPrice": 18240.63,
+    "closingPrice": 18264.51
+  },
+  {
+    "time": 1607513940000,
+    "openingPrice": 18264.9,
+    "highestPrice": 18270.71,
+    "lowestPrice": 18250,
+    "closingPrice": 18254.66
+  },
+  {
+    "time": 1607514000000,
+    "openingPrice": 18254.66,
+    "highestPrice": 18272,
+    "lowestPrice": 18254.66,
+    "closingPrice": 18271.05
+  },
+  {
+    "time": 1607514060000,
+    "openingPrice": 18271.05,
+    "highestPrice": 18285.97,
+    "lowestPrice": 18271.05,
+    "closingPrice": 18276.9
+  },
+  {
+    "time": 1607514120000,
+    "openingPrice": 18278.24,
+    "highestPrice": 18278.24,
+    "lowestPrice": 18264,
+    "closingPrice": 18269.33
+  },
+  {
+    "time": 1607514180000,
+    "openingPrice": 18269.88,
+    "highestPrice": 18270,
+    "lowestPrice": 18265,
+    "closingPrice": 18267.83
+  },
+  {
+    "time": 1607514240000,
+    "openingPrice": 18267.83,
+    "highestPrice": 18270,
+    "lowestPrice": 18260.89,
+    "closingPrice": 18270
+  },
+  {
+    "time": 1607514300000,
+    "openingPrice": 18270,
+    "highestPrice": 18270,
+    "lowestPrice": 18262.25,
+    "closingPrice": 18264.73
+  },
+  {
+    "time": 1607514360000,
+    "openingPrice": 18264.73,
+    "highestPrice": 18264.74,
+    "lowestPrice": 18255.12,
+    "closingPrice": 18260.82
+  },
+  {
+    "time": 1607514420000,
+    "openingPrice": 18260.82,
+    "highestPrice": 18270,
+    "lowestPrice": 18257.71,
+    "closingPrice": 18265.9
+  },
+  {
+    "time": 1607514480000,
+    "openingPrice": 18265.9,
+    "highestPrice": 18288.29,
+    "lowestPrice": 18265.89,
+    "closingPrice": 18287.53
+  },
+  {
+    "time": 1607514540000,
+    "openingPrice": 18287.52,
+    "highestPrice": 18287.87,
+    "lowestPrice": 18272.77,
+    "closingPrice": 18277.11
+  },
+  {
+    "time": 1607514600000,
+    "openingPrice": 18277.1,
+    "highestPrice": 18277.1,
+    "lowestPrice": 18264.25,
+    "closingPrice": 18268.3
+  },
+  {
+    "time": 1607514660000,
+    "openingPrice": 18268.3,
+    "highestPrice": 18272.3,
+    "lowestPrice": 18260.62,
+    "closingPrice": 18265.55
+  },
+  {
+    "time": 1607514720000,
+    "openingPrice": 18265.43,
+    "highestPrice": 18298.39,
+    "lowestPrice": 18263.85,
+    "closingPrice": 18297.94
+  },
+  {
+    "time": 1607514780000,
+    "openingPrice": 18297.94,
+    "highestPrice": 18300,
+    "lowestPrice": 18285,
+    "closingPrice": 18291.51
+  },
+  {
+    "time": 1607514840000,
+    "openingPrice": 18291.51,
+    "highestPrice": 18312.61,
+    "lowestPrice": 18281.02,
+    "closingPrice": 18281.81
+  },
+  {
+    "time": 1607514900000,
+    "openingPrice": 18282.11,
+    "highestPrice": 18295.5,
+    "lowestPrice": 18278.85,
+    "closingPrice": 18282.33
+  },
+  {
+    "time": 1607514960000,
+    "openingPrice": 18282.32,
+    "highestPrice": 18288.82,
+    "lowestPrice": 18266.2,
+    "closingPrice": 18270.01
+  },
+  {
+    "time": 1607515020000,
+    "openingPrice": 18270.01,
+    "highestPrice": 18270.5,
+    "lowestPrice": 18241.3,
+    "closingPrice": 18241.74
+  },
+  {
+    "time": 1607515080000,
+    "openingPrice": 18241.74,
+    "highestPrice": 18263.14,
+    "lowestPrice": 18240.96,
+    "closingPrice": 18251.4
+  },
+  {
+    "time": 1607515140000,
+    "openingPrice": 18251.53,
+    "highestPrice": 18254.71,
+    "lowestPrice": 18241.89,
+    "closingPrice": 18244.95
+  },
+  {
+    "time": 1607515200000,
+    "openingPrice": 18244.94,
+    "highestPrice": 18278.1,
+    "lowestPrice": 18244.94,
+    "closingPrice": 18246.1
+  },
+  {
+    "time": 1607515260000,
+    "openingPrice": 18246.1,
+    "highestPrice": 18271.29,
+    "lowestPrice": 18240.76,
+    "closingPrice": 18264.95
+  },
+  {
+    "time": 1607515320000,
+    "openingPrice": 18264.95,
+    "highestPrice": 18268.18,
+    "lowestPrice": 18253.55,
+    "closingPrice": 18258.76
+  },
+  {
+    "time": 1607515380000,
+    "openingPrice": 18258.75,
+    "highestPrice": 18288.57,
+    "lowestPrice": 18258.75,
+    "closingPrice": 18287
+  },
+  {
+    "time": 1607515440000,
+    "openingPrice": 18286.86,
+    "highestPrice": 18290,
+    "lowestPrice": 18275.78,
+    "closingPrice": 18277.6
+  },
+  {
+    "time": 1607515500000,
+    "openingPrice": 18277.58,
+    "highestPrice": 18300,
+    "lowestPrice": 18277,
+    "closingPrice": 18300
+  },
+  {
+    "time": 1607515560000,
+    "openingPrice": 18300,
+    "highestPrice": 18304.35,
+    "lowestPrice": 18284.64,
+    "closingPrice": 18287.05
+  },
+  {
+    "time": 1607515620000,
+    "openingPrice": 18287.05,
+    "highestPrice": 18299.01,
+    "lowestPrice": 18287.05,
+    "closingPrice": 18291.3
+  },
+  {
+    "time": 1607515680000,
+    "openingPrice": 18292.26,
+    "highestPrice": 18300,
+    "lowestPrice": 18291.41,
+    "closingPrice": 18298.04
+  },
+  {
+    "time": 1607515740000,
+    "openingPrice": 18298.03,
+    "highestPrice": 18316.77,
+    "lowestPrice": 18294.65,
+    "closingPrice": 18316.77
+  },
+  {
+    "time": 1607515800000,
+    "openingPrice": 18316.77,
+    "highestPrice": 18350.45,
+    "lowestPrice": 18316.76,
+    "closingPrice": 18344.41
+  },
+  {
+    "time": 1607515860000,
+    "openingPrice": 18344.26,
+    "highestPrice": 18344.26,
+    "lowestPrice": 18322.92,
+    "closingPrice": 18341.07
+  },
+  {
+    "time": 1607515920000,
+    "openingPrice": 18341.06,
+    "highestPrice": 18365,
+    "lowestPrice": 18323.63,
+    "closingPrice": 18326.67
+  },
+  {
+    "time": 1607515980000,
+    "openingPrice": 18326.66,
+    "highestPrice": 18343.18,
+    "lowestPrice": 18309,
+    "closingPrice": 18315.17
+  },
+  {
+    "time": 1607516040000,
+    "openingPrice": 18315.16,
+    "highestPrice": 18315.17,
+    "lowestPrice": 18290.88,
+    "closingPrice": 18311.18
+  },
+  {
+    "time": 1607516100000,
+    "openingPrice": 18311.18,
+    "highestPrice": 18318.46,
+    "lowestPrice": 18295,
+    "closingPrice": 18314.24
+  },
+  {
+    "time": 1607516160000,
+    "openingPrice": 18314.25,
+    "highestPrice": 18320.4,
+    "lowestPrice": 18292,
+    "closingPrice": 18297.75
+  },
+  {
+    "time": 1607516220000,
+    "openingPrice": 18297.74,
+    "highestPrice": 18306.84,
+    "lowestPrice": 18294.62,
+    "closingPrice": 18301.42
+  },
+  {
+    "time": 1607516280000,
+    "openingPrice": 18301.41,
+    "highestPrice": 18313.58,
+    "lowestPrice": 18290.97,
+    "closingPrice": 18313.57
+  },
+  {
+    "time": 1607516340000,
+    "openingPrice": 18313.58,
+    "highestPrice": 18329.96,
+    "lowestPrice": 18307.06,
+    "closingPrice": 18314.07
+  },
+  {
+    "time": 1607516400000,
+    "openingPrice": 18314.08,
+    "highestPrice": 18326.31,
+    "lowestPrice": 18306.81,
+    "closingPrice": 18314.25
+  },
+  {
+    "time": 1607516460000,
+    "openingPrice": 18314.49,
+    "highestPrice": 18314.49,
+    "lowestPrice": 18289.75,
+    "closingPrice": 18294.34
+  },
+  {
+    "time": 1607516520000,
+    "openingPrice": 18294.34,
+    "highestPrice": 18298.86,
+    "lowestPrice": 18290.83,
+    "closingPrice": 18294.37
+  },
+  {
+    "time": 1607516580000,
+    "openingPrice": 18294.37,
+    "highestPrice": 18294.37,
+    "lowestPrice": 18276.77,
+    "closingPrice": 18277.04
+  },
+  {
+    "time": 1607516640000,
+    "openingPrice": 18277.04,
+    "highestPrice": 18300,
+    "lowestPrice": 18270,
+    "closingPrice": 18291.17
+  },
+  {
+    "time": 1607516700000,
+    "openingPrice": 18291.1,
+    "highestPrice": 18292.77,
+    "lowestPrice": 18283,
+    "closingPrice": 18289.88
+  },
+  {
+    "time": 1607516760000,
+    "openingPrice": 18289.88,
+    "highestPrice": 18303.99,
+    "lowestPrice": 18288.34,
+    "closingPrice": 18300.79
+  },
+  {
+    "time": 1607516820000,
+    "openingPrice": 18300.8,
+    "highestPrice": 18302.66,
+    "lowestPrice": 18283.86,
+    "closingPrice": 18287.02
+  },
+  {
+    "time": 1607516880000,
+    "openingPrice": 18287.02,
+    "highestPrice": 18295,
+    "lowestPrice": 18280,
+    "closingPrice": 18289.17
+  },
+  {
+    "time": 1607516940000,
+    "openingPrice": 18289.03,
+    "highestPrice": 18289.03,
+    "lowestPrice": 18282,
+    "closingPrice": 18287.21
+  },
+  {
+    "time": 1607517000000,
+    "openingPrice": 18287.21,
+    "highestPrice": 18303.19,
+    "lowestPrice": 18283.04,
+    "closingPrice": 18286
+  },
+  {
+    "time": 1607517060000,
+    "openingPrice": 18286,
+    "highestPrice": 18297,
+    "lowestPrice": 18286,
+    "closingPrice": 18292.83
+  },
+  {
+    "time": 1607517120000,
+    "openingPrice": 18292.82,
+    "highestPrice": 18296.42,
+    "lowestPrice": 18285,
+    "closingPrice": 18285.01
+  },
+  {
+    "time": 1607517180000,
+    "openingPrice": 18285.01,
+    "highestPrice": 18305.46,
+    "lowestPrice": 18285,
+    "closingPrice": 18300.04
+  },
+  {
+    "time": 1607517240000,
+    "openingPrice": 18300.04,
+    "highestPrice": 18310.37,
+    "lowestPrice": 18300.03,
+    "closingPrice": 18307.94
+  },
+  {
+    "time": 1607517300000,
+    "openingPrice": 18307.95,
+    "highestPrice": 18310.64,
+    "lowestPrice": 18289.54,
+    "closingPrice": 18290.01
+  },
+  {
+    "time": 1607517360000,
+    "openingPrice": 18290.01,
+    "highestPrice": 18291.75,
+    "lowestPrice": 18280,
+    "closingPrice": 18282.86
+  },
+  {
+    "time": 1607517420000,
+    "openingPrice": 18282.86,
+    "highestPrice": 18282.87,
+    "lowestPrice": 18271.32,
+    "closingPrice": 18272.56
+  },
+  {
+    "time": 1607517480000,
+    "openingPrice": 18272.56,
+    "highestPrice": 18277.28,
+    "lowestPrice": 18271,
+    "closingPrice": 18272.49
+  },
+  {
+    "time": 1607517540000,
+    "openingPrice": 18272.48,
+    "highestPrice": 18274.98,
+    "lowestPrice": 18254.24,
+    "closingPrice": 18255.61
+  },
+  {
+    "time": 1607517600000,
+    "openingPrice": 18255.62,
+    "highestPrice": 18292.72,
+    "lowestPrice": 18255.61,
+    "closingPrice": 18292.67
+  },
+  {
+    "time": 1607517660000,
+    "openingPrice": 18292.67,
+    "highestPrice": 18293.22,
+    "lowestPrice": 18285.17,
+    "closingPrice": 18288.06
+  },
+  {
+    "time": 1607517720000,
+    "openingPrice": 18288.06,
+    "highestPrice": 18289.64,
+    "lowestPrice": 18268.41,
+    "closingPrice": 18268.41
+  },
+  {
+    "time": 1607517780000,
+    "openingPrice": 18268.41,
+    "highestPrice": 18270.27,
+    "lowestPrice": 18263.54,
+    "closingPrice": 18266.89
+  },
+  {
+    "time": 1607517840000,
+    "openingPrice": 18266.89,
+    "highestPrice": 18290,
+    "lowestPrice": 18262.01,
+    "closingPrice": 18289.99
+  },
+  {
+    "time": 1607517900000,
+    "openingPrice": 18290,
+    "highestPrice": 18291.92,
+    "lowestPrice": 18285,
+    "closingPrice": 18291.09
+  },
+  {
+    "time": 1607517960000,
+    "openingPrice": 18291.08,
+    "highestPrice": 18291.93,
+    "lowestPrice": 18282.5,
+    "closingPrice": 18284.04
+  },
+  {
+    "time": 1607518020000,
+    "openingPrice": 18284.04,
+    "highestPrice": 18284.04,
+    "lowestPrice": 18261.03,
+    "closingPrice": 18266.4
+  },
+  {
+    "time": 1607518080000,
+    "openingPrice": 18266.4,
+    "highestPrice": 18280.16,
+    "lowestPrice": 18266.4,
+    "closingPrice": 18273.99
+  },
+  {
+    "time": 1607518140000,
+    "openingPrice": 18274,
+    "highestPrice": 18283.32,
+    "lowestPrice": 18271.27,
+    "closingPrice": 18274.23
+  },
+  {
+    "time": 1607518200000,
+    "openingPrice": 18274.24,
+    "highestPrice": 18279.87,
+    "lowestPrice": 18263,
+    "closingPrice": 18267.85
+  },
+  {
+    "time": 1607518260000,
+    "openingPrice": 18267.85,
+    "highestPrice": 18271.47,
+    "lowestPrice": 18262.4,
+    "closingPrice": 18265.44
+  },
+  {
+    "time": 1607518320000,
+    "openingPrice": 18265.45,
+    "highestPrice": 18265.45,
+    "lowestPrice": 18240,
+    "closingPrice": 18245.01
+  },
+  {
+    "time": 1607518380000,
+    "openingPrice": 18240,
+    "highestPrice": 18247.43,
+    "lowestPrice": 18215,
+    "closingPrice": 18233.73
+  },
+  {
+    "time": 1607518440000,
+    "openingPrice": 18233.74,
+    "highestPrice": 18237.64,
+    "lowestPrice": 18227.09,
+    "closingPrice": 18232.31
+  },
+  {
+    "time": 1607518500000,
+    "openingPrice": 18232.31,
+    "highestPrice": 18248.97,
+    "lowestPrice": 18227.05,
+    "closingPrice": 18232.97
+  },
+  {
+    "time": 1607518560000,
+    "openingPrice": 18232.97,
+    "highestPrice": 18233.5,
+    "lowestPrice": 18210.05,
+    "closingPrice": 18226.87
+  },
+  {
+    "time": 1607518620000,
+    "openingPrice": 18226.7,
+    "highestPrice": 18259.99,
+    "lowestPrice": 18221.51,
+    "closingPrice": 18228.09
+  },
+  {
+    "time": 1607518680000,
+    "openingPrice": 18229.37,
+    "highestPrice": 18245.55,
+    "lowestPrice": 18229.37,
+    "closingPrice": 18236.15
+  },
+  {
+    "time": 1607518740000,
+    "openingPrice": 18236.14,
+    "highestPrice": 18245.54,
+    "lowestPrice": 18233.01,
+    "closingPrice": 18234.74
+  },
+  {
+    "time": 1607518800000,
+    "openingPrice": 18234.74,
+    "highestPrice": 18254.7,
+    "lowestPrice": 18233.01,
+    "closingPrice": 18238.11
+  },
+  {
+    "time": 1607518860000,
+    "openingPrice": 18238.11,
+    "highestPrice": 18257.45,
+    "lowestPrice": 18237.65,
+    "closingPrice": 18257.45
+  },
+  {
+    "time": 1607518920000,
+    "openingPrice": 18256.72,
+    "highestPrice": 18261.87,
+    "lowestPrice": 18255.82,
+    "closingPrice": 18259.76
+  },
+  {
+    "time": 1607518980000,
+    "openingPrice": 18259.67,
+    "highestPrice": 18260,
+    "lowestPrice": 18250,
+    "closingPrice": 18256.44
+  },
+  {
+    "time": 1607519040000,
+    "openingPrice": 18256.45,
+    "highestPrice": 18260,
+    "lowestPrice": 18251.99,
+    "closingPrice": 18259.44
+  },
+  {
+    "time": 1607519100000,
+    "openingPrice": 18259.46,
+    "highestPrice": 18260,
+    "lowestPrice": 18253.21,
+    "closingPrice": 18258.32
+  },
+  {
+    "time": 1607519160000,
+    "openingPrice": 18258.22,
+    "highestPrice": 18279.26,
+    "lowestPrice": 18258.21,
+    "closingPrice": 18278.8
+  },
+  {
+    "time": 1607519220000,
+    "openingPrice": 18278.8,
+    "highestPrice": 18281.87,
+    "lowestPrice": 18175.02,
+    "closingPrice": 18191.65
+  },
+  {
+    "time": 1607519280000,
+    "openingPrice": 18192.97,
+    "highestPrice": 18201.82,
+    "lowestPrice": 18175,
+    "closingPrice": 18199.23
+  },
+  {
+    "time": 1607519340000,
+    "openingPrice": 18196.25,
+    "highestPrice": 18202.48,
+    "lowestPrice": 18169.1,
+    "closingPrice": 18174.5
+  },
+  {
+    "time": 1607519400000,
+    "openingPrice": 18174.5,
+    "highestPrice": 18221.32,
+    "lowestPrice": 18172.02,
+    "closingPrice": 18220.1
+  },
+  {
+    "time": 1607519460000,
+    "openingPrice": 18218.42,
+    "highestPrice": 18221.01,
+    "lowestPrice": 18190.72,
+    "closingPrice": 18200.18
+  },
+  {
+    "time": 1607519520000,
+    "openingPrice": 18199.9,
+    "highestPrice": 18212,
+    "lowestPrice": 18191.46,
+    "closingPrice": 18195.05
+  },
+  {
+    "time": 1607519580000,
+    "openingPrice": 18195.04,
+    "highestPrice": 18202.69,
+    "lowestPrice": 18191.02,
+    "closingPrice": 18194.7
+  },
+  {
+    "time": 1607519640000,
+    "openingPrice": 18194.7,
+    "highestPrice": 18220,
+    "lowestPrice": 18190,
+    "closingPrice": 18212.29
+  },
+  {
+    "time": 1607519700000,
+    "openingPrice": 18212.22,
+    "highestPrice": 18212.22,
+    "lowestPrice": 18190,
+    "closingPrice": 18199.98
+  },
+  {
+    "time": 1607519760000,
+    "openingPrice": 18199.98,
+    "highestPrice": 18222,
+    "lowestPrice": 18194.72,
+    "closingPrice": 18220.83
+  },
+  {
+    "time": 1607519820000,
+    "openingPrice": 18220.83,
+    "highestPrice": 18221.55,
+    "lowestPrice": 18211.1,
+    "closingPrice": 18216.99
+  },
+  {
+    "time": 1607519880000,
+    "openingPrice": 18216.96,
+    "highestPrice": 18236,
+    "lowestPrice": 18214.62,
+    "closingPrice": 18235.29
+  },
+  {
+    "time": 1607519940000,
+    "openingPrice": 18234.62,
+    "highestPrice": 18234.62,
+    "lowestPrice": 18214.27,
+    "closingPrice": 18218.99
+  },
+  {
+    "time": 1607520000000,
+    "openingPrice": 18219,
+    "highestPrice": 18219,
+    "lowestPrice": 18200,
+    "closingPrice": 18204.46
+  },
+  {
+    "time": 1607520060000,
+    "openingPrice": 18204.46,
+    "highestPrice": 18221.59,
+    "lowestPrice": 18202.11,
+    "closingPrice": 18220.96
+  },
+  {
+    "time": 1607520120000,
+    "openingPrice": 18221.18,
+    "highestPrice": 18228.98,
+    "lowestPrice": 18220.5,
+    "closingPrice": 18224.95
+  },
+  {
+    "time": 1607520180000,
+    "openingPrice": 18224.95,
+    "highestPrice": 18246.5,
+    "lowestPrice": 18224.94,
+    "closingPrice": 18231.37
+  },
+  {
+    "time": 1607520240000,
+    "openingPrice": 18231.37,
+    "highestPrice": 18231.37,
+    "lowestPrice": 18216.33,
+    "closingPrice": 18217.98
+  },
+  {
+    "time": 1607520300000,
+    "openingPrice": 18218.21,
+    "highestPrice": 18218.21,
+    "lowestPrice": 18193.3,
+    "closingPrice": 18193.67
+  },
+  {
+    "time": 1607520360000,
+    "openingPrice": 18193.66,
+    "highestPrice": 18193.67,
+    "lowestPrice": 18181.01,
+    "closingPrice": 18188.91
+  },
+  {
+    "time": 1607520420000,
+    "openingPrice": 18188.95,
+    "highestPrice": 18202.39,
+    "lowestPrice": 18184.19,
+    "closingPrice": 18200.88
+  },
+  {
+    "time": 1607520480000,
+    "openingPrice": 18200.88,
+    "highestPrice": 18206.5,
+    "lowestPrice": 18190.5,
+    "closingPrice": 18200
+  },
+  {
+    "time": 1607520540000,
+    "openingPrice": 18200,
+    "highestPrice": 18200,
+    "lowestPrice": 18191.4,
+    "closingPrice": 18196.06
+  },
+  {
+    "time": 1607520600000,
+    "openingPrice": 18196.06,
+    "highestPrice": 18240.51,
+    "lowestPrice": 18175,
+    "closingPrice": 18236.54
+  },
+  {
+    "time": 1607520660000,
+    "openingPrice": 18236.55,
+    "highestPrice": 18249.61,
+    "lowestPrice": 18209.33,
+    "closingPrice": 18212.9
+  },
+  {
+    "time": 1607520720000,
+    "openingPrice": 18212.9,
+    "highestPrice": 18235.04,
+    "lowestPrice": 18212.9,
+    "closingPrice": 18231.49
+  },
+  {
+    "time": 1607520780000,
+    "openingPrice": 18231.49,
+    "highestPrice": 18245,
+    "lowestPrice": 18224.52,
+    "closingPrice": 18241.43
+  },
+  {
+    "time": 1607520840000,
+    "openingPrice": 18241.9,
+    "highestPrice": 18244.23,
+    "lowestPrice": 18227.2,
+    "closingPrice": 18227.2
+  },
+  {
+    "time": 1607520900000,
+    "openingPrice": 18227.19,
+    "highestPrice": 18240,
+    "lowestPrice": 18225.88,
+    "closingPrice": 18234.03
+  },
+  {
+    "time": 1607520960000,
+    "openingPrice": 18233.9,
+    "highestPrice": 18263.65,
+    "lowestPrice": 18233.75,
+    "closingPrice": 18250
+  },
+  {
+    "time": 1607521020000,
+    "openingPrice": 18249.99,
+    "highestPrice": 18258.34,
+    "lowestPrice": 18246.02,
+    "closingPrice": 18251.34
+  },
+  {
+    "time": 1607521080000,
+    "openingPrice": 18251.34,
+    "highestPrice": 18257.72,
+    "lowestPrice": 18248.43,
+    "closingPrice": 18257.72
+  },
+  {
+    "time": 1607521140000,
+    "openingPrice": 18257.71,
+    "highestPrice": 18284.27,
+    "lowestPrice": 18254.14,
+    "closingPrice": 18280.72
+  },
+  {
+    "time": 1607521200000,
+    "openingPrice": 18280.52,
+    "highestPrice": 18320.58,
+    "lowestPrice": 18278.46,
+    "closingPrice": 18302.51
+  },
+  {
+    "time": 1607521260000,
+    "openingPrice": 18302.51,
+    "highestPrice": 18304.98,
+    "lowestPrice": 18287.36,
+    "closingPrice": 18290.88
+  },
+  {
+    "time": 1607521320000,
+    "openingPrice": 18289.81,
+    "highestPrice": 18310.86,
+    "lowestPrice": 18285,
+    "closingPrice": 18304.08
+  },
+  {
+    "time": 1607521380000,
+    "openingPrice": 18304.08,
+    "highestPrice": 18311.34,
+    "lowestPrice": 18303.77,
+    "closingPrice": 18304.83
+  },
+  {
+    "time": 1607521440000,
+    "openingPrice": 18304.84,
+    "highestPrice": 18310.72,
+    "lowestPrice": 18298.01,
+    "closingPrice": 18306.47
+  },
+  {
+    "time": 1607521500000,
+    "openingPrice": 18307.38,
+    "highestPrice": 18317.79,
+    "lowestPrice": 18302.5,
+    "closingPrice": 18307.23
+  },
+  {
+    "time": 1607521560000,
+    "openingPrice": 18307.48,
+    "highestPrice": 18309.99,
+    "lowestPrice": 18300.66,
+    "closingPrice": 18302.49
+  },
+  {
+    "time": 1607521620000,
+    "openingPrice": 18302.95,
+    "highestPrice": 18308,
+    "lowestPrice": 18297.28,
+    "closingPrice": 18299.01
+  },
+  {
+    "time": 1607521680000,
+    "openingPrice": 18299.01,
+    "highestPrice": 18307.92,
+    "lowestPrice": 18293.65,
+    "closingPrice": 18298.53
+  },
+  {
+    "time": 1607521740000,
+    "openingPrice": 18299.43,
+    "highestPrice": 18310,
+    "lowestPrice": 18293.3,
+    "closingPrice": 18309.99
+  },
+  {
+    "time": 1607521800000,
+    "openingPrice": 18309.99,
+    "highestPrice": 18327.42,
+    "lowestPrice": 18309.99,
+    "closingPrice": 18313.06
+  },
+  {
+    "time": 1607521860000,
+    "openingPrice": 18313.07,
+    "highestPrice": 18354.9,
+    "lowestPrice": 18313.07,
+    "closingPrice": 18353.64
+  },
+  {
+    "time": 1607521920000,
+    "openingPrice": 18353.63,
+    "highestPrice": 18375,
+    "lowestPrice": 18352.69,
+    "closingPrice": 18373.65
+  },
+  {
+    "time": 1607521980000,
+    "openingPrice": 18370.63,
+    "highestPrice": 18439.86,
+    "lowestPrice": 18364.48,
+    "closingPrice": 18397.45
+  },
+  {
+    "time": 1607522040000,
+    "openingPrice": 18397.44,
+    "highestPrice": 18455,
+    "lowestPrice": 18397.44,
+    "closingPrice": 18443.39
+  },
+  {
+    "time": 1607522100000,
+    "openingPrice": 18443.4,
+    "highestPrice": 18456,
+    "lowestPrice": 18432.7,
+    "closingPrice": 18444.48
+  },
+  {
+    "time": 1607522160000,
+    "openingPrice": 18447.53,
+    "highestPrice": 18447.53,
+    "lowestPrice": 18415.96,
+    "closingPrice": 18436.56
+  },
+  {
+    "time": 1607522220000,
+    "openingPrice": 18438.14,
+    "highestPrice": 18459.86,
+    "lowestPrice": 18430.79,
+    "closingPrice": 18437.12
+  },
+  {
+    "time": 1607522280000,
+    "openingPrice": 18437.12,
+    "highestPrice": 18468,
+    "lowestPrice": 18437.12,
+    "closingPrice": 18468
+  },
+  {
+    "time": 1607522340000,
+    "openingPrice": 18468,
+    "highestPrice": 18498,
+    "lowestPrice": 18467.6,
+    "closingPrice": 18483.5
+  },
+  {
+    "time": 1607522400000,
+    "openingPrice": 18483.24,
+    "highestPrice": 18519.86,
+    "lowestPrice": 18476.32,
+    "closingPrice": 18517.24
+  },
+  {
+    "time": 1607522460000,
+    "openingPrice": 18516.01,
+    "highestPrice": 18523.99,
+    "lowestPrice": 18504.83,
+    "closingPrice": 18504.83
+  },
+  {
+    "time": 1607522520000,
+    "openingPrice": 18504.84,
+    "highestPrice": 18515,
+    "lowestPrice": 18489.74,
+    "closingPrice": 18502.15
+  },
+  {
+    "time": 1607522580000,
+    "openingPrice": 18502.15,
+    "highestPrice": 18502.16,
+    "lowestPrice": 18467,
+    "closingPrice": 18473.64
+  },
+  {
+    "time": 1607522640000,
+    "openingPrice": 18473.63,
+    "highestPrice": 18480.06,
+    "lowestPrice": 18460.49,
+    "closingPrice": 18465.98
+  },
+  {
+    "time": 1607522700000,
+    "openingPrice": 18465.97,
+    "highestPrice": 18473.8,
+    "lowestPrice": 18462.09,
+    "closingPrice": 18464.18
+  },
+  {
+    "time": 1607522760000,
+    "openingPrice": 18464.18,
+    "highestPrice": 18464.76,
+    "lowestPrice": 18431.86,
+    "closingPrice": 18433.31
+  },
+  {
+    "time": 1607522820000,
+    "openingPrice": 18433.31,
+    "highestPrice": 18440.24,
+    "lowestPrice": 18425.17,
+    "closingPrice": 18436.05
+  },
+  {
+    "time": 1607522880000,
+    "openingPrice": 18436.05,
+    "highestPrice": 18458.23,
+    "lowestPrice": 18435.41,
+    "closingPrice": 18451.46
+  },
+  {
+    "time": 1607522940000,
+    "openingPrice": 18452.75,
+    "highestPrice": 18457.62,
+    "lowestPrice": 18430,
+    "closingPrice": 18436.48
+  },
+  {
+    "time": 1607523000000,
+    "openingPrice": 18436.69,
+    "highestPrice": 18458.14,
+    "lowestPrice": 18436.47,
+    "closingPrice": 18457
+  },
+  {
+    "time": 1607523060000,
+    "openingPrice": 18457,
+    "highestPrice": 18469.82,
+    "lowestPrice": 18456.97,
+    "closingPrice": 18461.52
+  },
+  {
+    "time": 1607523120000,
+    "openingPrice": 18461.52,
+    "highestPrice": 18461.87,
+    "lowestPrice": 18450,
+    "closingPrice": 18451.81
+  },
+  {
+    "time": 1607523180000,
+    "openingPrice": 18452.65,
+    "highestPrice": 18477.4,
+    "lowestPrice": 18447.02,
+    "closingPrice": 18474.29
+  },
+  {
+    "time": 1607523240000,
+    "openingPrice": 18474.29,
+    "highestPrice": 18496.55,
+    "lowestPrice": 18474.28,
+    "closingPrice": 18490.6
+  },
+  {
+    "time": 1607523300000,
+    "openingPrice": 18490.6,
+    "highestPrice": 18495.99,
+    "lowestPrice": 18458.96,
+    "closingPrice": 18469.11
+  },
+  {
+    "time": 1607523360000,
+    "openingPrice": 18469.11,
+    "highestPrice": 18469.11,
+    "lowestPrice": 18455.47,
+    "closingPrice": 18462.9
+  },
+  {
+    "time": 1607523420000,
+    "openingPrice": 18463.35,
+    "highestPrice": 18495.33,
+    "lowestPrice": 18463.35,
+    "closingPrice": 18479.73
+  },
+  {
+    "time": 1607523480000,
+    "openingPrice": 18479.87,
+    "highestPrice": 18485.66,
+    "lowestPrice": 18468.19,
+    "closingPrice": 18481.87
+  },
+  {
+    "time": 1607523540000,
+    "openingPrice": 18481.88,
+    "highestPrice": 18486.9,
+    "lowestPrice": 18462.64,
+    "closingPrice": 18469.52
+  },
+  {
+    "time": 1607523600000,
+    "openingPrice": 18469.52,
+    "highestPrice": 18480.08,
+    "lowestPrice": 18467.98,
+    "closingPrice": 18473.63
+  },
+  {
+    "time": 1607523660000,
+    "openingPrice": 18473.63,
+    "highestPrice": 18473.64,
+    "lowestPrice": 18462,
+    "closingPrice": 18468.62
+  },
+  {
+    "time": 1607523720000,
+    "openingPrice": 18468.67,
+    "highestPrice": 18479.86,
+    "lowestPrice": 18465,
+    "closingPrice": 18465.93
+  },
+  {
+    "time": 1607523780000,
+    "openingPrice": 18465.93,
+    "highestPrice": 18470.62,
+    "lowestPrice": 18451.01,
+    "closingPrice": 18451.01
+  },
+  {
+    "time": 1607523840000,
+    "openingPrice": 18451.72,
+    "highestPrice": 18466.76,
+    "lowestPrice": 18451.36,
+    "closingPrice": 18460.33
+  },
+  {
+    "time": 1607523900000,
+    "openingPrice": 18460.33,
+    "highestPrice": 18462.65,
+    "lowestPrice": 18453.96,
+    "closingPrice": 18455.22
+  },
+  {
+    "time": 1607523960000,
+    "openingPrice": 18455.22,
+    "highestPrice": 18459.9,
+    "lowestPrice": 18449.78,
+    "closingPrice": 18459.9
+  },
+  {
+    "time": 1607524020000,
+    "openingPrice": 18459.9,
+    "highestPrice": 18471.94,
+    "lowestPrice": 18451.04,
+    "closingPrice": 18451.42
+  },
+  {
+    "time": 1607524080000,
+    "openingPrice": 18451.42,
+    "highestPrice": 18454.62,
+    "lowestPrice": 18450.04,
+    "closingPrice": 18453.98
+  },
+  {
+    "time": 1607524140000,
+    "openingPrice": 18453.98,
+    "highestPrice": 18454.63,
+    "lowestPrice": 18451.14,
+    "closingPrice": 18451.32
+  },
+  {
+    "time": 1607524200000,
+    "openingPrice": 18451.33,
+    "highestPrice": 18479.43,
+    "lowestPrice": 18451.32,
+    "closingPrice": 18462
+  },
+  {
+    "time": 1607524260000,
+    "openingPrice": 18462,
+    "highestPrice": 18470.05,
+    "lowestPrice": 18461.98,
+    "closingPrice": 18464
+  },
+  {
+    "time": 1607524320000,
+    "openingPrice": 18464,
+    "highestPrice": 18466.8,
+    "lowestPrice": 18454.06,
+    "closingPrice": 18464.04
+  },
+  {
+    "time": 1607524380000,
+    "openingPrice": 18464.39,
+    "highestPrice": 18465.83,
+    "lowestPrice": 18451.32,
+    "closingPrice": 18455.9
+  },
+  {
+    "time": 1607524440000,
+    "openingPrice": 18455.9,
+    "highestPrice": 18462.95,
+    "lowestPrice": 18454,
+    "closingPrice": 18454.01
+  },
+  {
+    "time": 1607524500000,
+    "openingPrice": 18454,
+    "highestPrice": 18466.28,
+    "lowestPrice": 18451.75,
+    "closingPrice": 18464.77
+  },
+  {
+    "time": 1607524560000,
+    "openingPrice": 18464.77,
+    "highestPrice": 18464.77,
+    "lowestPrice": 18450.47,
+    "closingPrice": 18457.6
+  },
+  {
+    "time": 1607524620000,
+    "openingPrice": 18457.61,
+    "highestPrice": 18460.21,
+    "lowestPrice": 18446.37,
+    "closingPrice": 18446.96
+  },
+  {
+    "time": 1607524680000,
+    "openingPrice": 18446.95,
+    "highestPrice": 18453.24,
+    "lowestPrice": 18441.61,
+    "closingPrice": 18452.77
+  },
+  {
+    "time": 1607524740000,
+    "openingPrice": 18452.77,
+    "highestPrice": 18452.78,
+    "lowestPrice": 18440.5,
+    "closingPrice": 18440.81
+  },
+  {
+    "time": 1607524800000,
+    "openingPrice": 18440.8,
+    "highestPrice": 18442.52,
+    "lowestPrice": 18438.13,
+    "closingPrice": 18438.56
+  },
+  {
+    "time": 1607524860000,
+    "openingPrice": 18438.56,
+    "highestPrice": 18440.33,
+    "lowestPrice": 18434.51,
+    "closingPrice": 18438.22
+  },
+  {
+    "time": 1607524920000,
+    "openingPrice": 18438.22,
+    "highestPrice": 18499.38,
+    "lowestPrice": 18435.46,
+    "closingPrice": 18494.83
+  },
+  {
+    "time": 1607524980000,
+    "openingPrice": 18494.83,
+    "highestPrice": 18509.69,
+    "lowestPrice": 18476.32,
+    "closingPrice": 18508.84
+  },
+  {
+    "time": 1607525040000,
+    "openingPrice": 18508.84,
+    "highestPrice": 18509.93,
+    "lowestPrice": 18459.86,
+    "closingPrice": 18467.5
+  },
+  {
+    "time": 1607525100000,
+    "openingPrice": 18467.5,
+    "highestPrice": 18479.94,
+    "lowestPrice": 18462,
+    "closingPrice": 18472.93
+  },
+  {
+    "time": 1607525160000,
+    "openingPrice": 18472.92,
+    "highestPrice": 18478.07,
+    "lowestPrice": 18460,
+    "closingPrice": 18464.22
+  },
+  {
+    "time": 1607525220000,
+    "openingPrice": 18464.21,
+    "highestPrice": 18476.49,
+    "lowestPrice": 18452,
+    "closingPrice": 18453.27
+  },
+  {
+    "time": 1607525280000,
+    "openingPrice": 18453.28,
+    "highestPrice": 18456.88,
+    "lowestPrice": 18430.5,
+    "closingPrice": 18436.74
+  },
+  {
+    "time": 1607525340000,
+    "openingPrice": 18437.63,
+    "highestPrice": 18445,
+    "lowestPrice": 18433.38,
+    "closingPrice": 18444.2
+  },
+  {
+    "time": 1607525400000,
+    "openingPrice": 18444.19,
+    "highestPrice": 18450,
+    "lowestPrice": 18434.38,
+    "closingPrice": 18435.73
+  },
+  {
+    "time": 1607525460000,
+    "openingPrice": 18435.73,
+    "highestPrice": 18446.62,
+    "lowestPrice": 18435.72,
+    "closingPrice": 18437.29
+  },
+  {
+    "time": 1607525520000,
+    "openingPrice": 18437.28,
+    "highestPrice": 18463.18,
+    "lowestPrice": 18436.87,
+    "closingPrice": 18451.1
+  },
+  {
+    "time": 1607525580000,
+    "openingPrice": 18451.11,
+    "highestPrice": 18452.76,
+    "lowestPrice": 18441.03,
+    "closingPrice": 18448.5
+  },
+  {
+    "time": 1607525640000,
+    "openingPrice": 18446.64,
+    "highestPrice": 18449.89,
+    "lowestPrice": 18437.78,
+    "closingPrice": 18443.86
+  },
+  {
+    "time": 1607525700000,
+    "openingPrice": 18443.85,
+    "highestPrice": 18489.86,
+    "lowestPrice": 18441.92,
+    "closingPrice": 18466.35
+  },
+  {
+    "time": 1607525760000,
+    "openingPrice": 18466.35,
+    "highestPrice": 18476.02,
+    "lowestPrice": 18457.21,
+    "closingPrice": 18461.5
+  },
+  {
+    "time": 1607525820000,
+    "openingPrice": 18461.5,
+    "highestPrice": 18465.68,
+    "lowestPrice": 18446.59,
+    "closingPrice": 18447.05
+  },
+  {
+    "time": 1607525880000,
+    "openingPrice": 18447.06,
+    "highestPrice": 18458,
+    "lowestPrice": 18447.06,
+    "closingPrice": 18450.63
+  },
+  {
+    "time": 1607525940000,
+    "openingPrice": 18450.63,
+    "highestPrice": 18459.51,
+    "lowestPrice": 18438.68,
+    "closingPrice": 18451.01
+  },
+  {
+    "time": 1607526000000,
+    "openingPrice": 18451.01,
+    "highestPrice": 18470.22,
+    "lowestPrice": 18448.25,
+    "closingPrice": 18455.43
+  },
+  {
+    "time": 1607526060000,
+    "openingPrice": 18455.43,
+    "highestPrice": 18463.49,
+    "lowestPrice": 18450,
+    "closingPrice": 18452.65
+  },
+  {
+    "time": 1607526120000,
+    "openingPrice": 18452.65,
+    "highestPrice": 18452.66,
+    "lowestPrice": 18417.57,
+    "closingPrice": 18417.58
+  },
+  {
+    "time": 1607526180000,
+    "openingPrice": 18417.57,
+    "highestPrice": 18420.27,
+    "lowestPrice": 18410.49,
+    "closingPrice": 18412.62
+  },
+  {
+    "time": 1607526240000,
+    "openingPrice": 18412.63,
+    "highestPrice": 18419.78,
+    "lowestPrice": 18405,
+    "closingPrice": 18412.89
+  },
+  {
+    "time": 1607526300000,
+    "openingPrice": 18412.89,
+    "highestPrice": 18418.64,
+    "lowestPrice": 18394.01,
+    "closingPrice": 18394.19
+  },
+  {
+    "time": 1607526360000,
+    "openingPrice": 18394.19,
+    "highestPrice": 18398.75,
+    "lowestPrice": 18390.49,
+    "closingPrice": 18391.7
+  },
+  {
+    "time": 1607526420000,
+    "openingPrice": 18391.7,
+    "highestPrice": 18399.63,
+    "lowestPrice": 18390.49,
+    "closingPrice": 18392.4
+  },
+  {
+    "time": 1607526480000,
+    "openingPrice": 18392.4,
+    "highestPrice": 18393.02,
+    "lowestPrice": 18360.98,
+    "closingPrice": 18366.73
+  },
+  {
+    "time": 1607526540000,
+    "openingPrice": 18367.29,
+    "highestPrice": 18390,
+    "lowestPrice": 18356.03,
+    "closingPrice": 18389.48
+  },
+  {
+    "time": 1607526600000,
+    "openingPrice": 18389.44,
+    "highestPrice": 18390,
+    "lowestPrice": 18375,
+    "closingPrice": 18377.23
+  },
+  {
+    "time": 1607526660000,
+    "openingPrice": 18377.23,
+    "highestPrice": 18381,
+    "lowestPrice": 18366.98,
+    "closingPrice": 18370
+  },
+  {
+    "time": 1607526720000,
+    "openingPrice": 18370.01,
+    "highestPrice": 18375.24,
+    "lowestPrice": 18353.83,
+    "closingPrice": 18370.54
+  },
+  {
+    "time": 1607526780000,
+    "openingPrice": 18369.84,
+    "highestPrice": 18376.03,
+    "lowestPrice": 18351,
+    "closingPrice": 18355.8
+  },
+  {
+    "time": 1607526840000,
+    "openingPrice": 18355.8,
+    "highestPrice": 18373.77,
+    "lowestPrice": 18352.62,
+    "closingPrice": 18355.16
+  },
+  {
+    "time": 1607526900000,
+    "openingPrice": 18355.16,
+    "highestPrice": 18365.71,
+    "lowestPrice": 18342.88,
+    "closingPrice": 18361.39
+  },
+  {
+    "time": 1607526960000,
+    "openingPrice": 18361.39,
+    "highestPrice": 18376.81,
+    "lowestPrice": 18341.17,
+    "closingPrice": 18349.7
+  },
+  {
+    "time": 1607527020000,
+    "openingPrice": 18349.69,
+    "highestPrice": 18357.96,
+    "lowestPrice": 18338.05,
+    "closingPrice": 18350.52
+  },
+  {
+    "time": 1607527080000,
+    "openingPrice": 18350.53,
+    "highestPrice": 18360,
+    "lowestPrice": 18335.48,
+    "closingPrice": 18349.43
+  },
+  {
+    "time": 1607527140000,
+    "openingPrice": 18349.43,
+    "highestPrice": 18349.43,
+    "lowestPrice": 18333,
+    "closingPrice": 18337.22
+  },
+  {
+    "time": 1607527200000,
+    "openingPrice": 18337.22,
+    "highestPrice": 18344.43,
+    "lowestPrice": 18331,
+    "closingPrice": 18331
+  },
+  {
+    "time": 1607527260000,
+    "openingPrice": 18331.01,
+    "highestPrice": 18336.5,
+    "lowestPrice": 18300,
+    "closingPrice": 18314.05
+  },
+  {
+    "time": 1607527320000,
+    "openingPrice": 18314.06,
+    "highestPrice": 18345.74,
+    "lowestPrice": 18300,
+    "closingPrice": 18336.31
+  },
+  {
+    "time": 1607527380000,
+    "openingPrice": 18336.31,
+    "highestPrice": 18342.63,
+    "lowestPrice": 18333.74,
+    "closingPrice": 18338.2
+  },
+  {
+    "time": 1607527440000,
+    "openingPrice": 18338.2,
+    "highestPrice": 18355.01,
+    "lowestPrice": 18337.54,
+    "closingPrice": 18352.36
+  },
+  {
+    "time": 1607527500000,
+    "openingPrice": 18352.35,
+    "highestPrice": 18360,
+    "lowestPrice": 18343.2,
+    "closingPrice": 18354.27
+  },
+  {
+    "time": 1607527560000,
+    "openingPrice": 18354.27,
+    "highestPrice": 18356.9,
+    "lowestPrice": 18338.8,
+    "closingPrice": 18348.93
+  },
+  {
+    "time": 1607527620000,
+    "openingPrice": 18348.92,
+    "highestPrice": 18354.37,
+    "lowestPrice": 18338.98,
+    "closingPrice": 18339.2
+  },
+  {
+    "time": 1607527680000,
+    "openingPrice": 18339.2,
+    "highestPrice": 18345.21,
+    "lowestPrice": 18316,
+    "closingPrice": 18334.73
+  },
+  {
+    "time": 1607527740000,
+    "openingPrice": 18334.73,
+    "highestPrice": 18342.6,
+    "lowestPrice": 18323.92,
+    "closingPrice": 18339.43
+  },
+  {
+    "time": 1607527800000,
+    "openingPrice": 18339.43,
+    "highestPrice": 18346.2,
+    "lowestPrice": 18334.83,
+    "closingPrice": 18344.97
+  },
+  {
+    "time": 1607527860000,
+    "openingPrice": 18344.93,
+    "highestPrice": 18357.34,
+    "lowestPrice": 18337.37,
+    "closingPrice": 18356.5
+  },
+  {
+    "time": 1607527920000,
+    "openingPrice": 18356.5,
+    "highestPrice": 18371.06,
+    "lowestPrice": 18352.54,
+    "closingPrice": 18363.17
+  },
+  {
+    "time": 1607527980000,
+    "openingPrice": 18363.17,
+    "highestPrice": 18364.34,
+    "lowestPrice": 18352.38,
+    "closingPrice": 18359.99
+  },
+  {
+    "time": 1607528040000,
+    "openingPrice": 18359.99,
+    "highestPrice": 18371.48,
+    "lowestPrice": 18359,
+    "closingPrice": 18359.01
+  },
+  {
+    "time": 1607528100000,
+    "openingPrice": 18359.01,
+    "highestPrice": 18359.87,
+    "lowestPrice": 18350,
+    "closingPrice": 18357.47
+  },
+  {
+    "time": 1607528160000,
+    "openingPrice": 18357.46,
+    "highestPrice": 18357.93,
+    "lowestPrice": 18341.77,
+    "closingPrice": 18344.46
+  },
+  {
+    "time": 1607528220000,
+    "openingPrice": 18344.46,
+    "highestPrice": 18347.24,
+    "lowestPrice": 18331.7,
+    "closingPrice": 18331.79
+  },
+  {
+    "time": 1607528280000,
+    "openingPrice": 18331.78,
+    "highestPrice": 18332.18,
+    "lowestPrice": 18315.05,
+    "closingPrice": 18322.88
+  },
+  {
+    "time": 1607528340000,
+    "openingPrice": 18322.88,
+    "highestPrice": 18324.06,
+    "lowestPrice": 18316.77,
+    "closingPrice": 18322.34
+  },
+  {
+    "time": 1607528400000,
+    "openingPrice": 18322.34,
+    "highestPrice": 18324.13,
+    "lowestPrice": 18317.6,
+    "closingPrice": 18323.6
+  },
+  {
+    "time": 1607528460000,
+    "openingPrice": 18323.6,
+    "highestPrice": 18332.91,
+    "lowestPrice": 18321.14,
+    "closingPrice": 18321.84
+  },
+  {
+    "time": 1607528520000,
+    "openingPrice": 18321.84,
+    "highestPrice": 18330.49,
+    "lowestPrice": 18301.01,
+    "closingPrice": 18305.33
+  },
+  {
+    "time": 1607528580000,
+    "openingPrice": 18305.32,
+    "highestPrice": 18311.92,
+    "lowestPrice": 18300,
+    "closingPrice": 18300.21
+  },
+  {
+    "time": 1607528640000,
+    "openingPrice": 18300.2,
+    "highestPrice": 18300.36,
+    "lowestPrice": 18300,
+    "closingPrice": 18300.01
+  },
+  {
+    "time": 1607528700000,
+    "openingPrice": 18300,
+    "highestPrice": 18300.01,
+    "lowestPrice": 18290.9,
+    "closingPrice": 18291.95
+  },
+  {
+    "time": 1607528760000,
+    "openingPrice": 18291.95,
+    "highestPrice": 18319.34,
+    "lowestPrice": 18291.85,
+    "closingPrice": 18316.22
+  },
+  {
+    "time": 1607528820000,
+    "openingPrice": 18316.23,
+    "highestPrice": 18316.23,
+    "lowestPrice": 18290.49,
+    "closingPrice": 18298.45
+  },
+  {
+    "time": 1607528880000,
+    "openingPrice": 18298.46,
+    "highestPrice": 18300,
+    "lowestPrice": 18292.13,
+    "closingPrice": 18299.99
+  },
+  {
+    "time": 1607528940000,
+    "openingPrice": 18300,
+    "highestPrice": 18331.49,
+    "lowestPrice": 18295.8,
+    "closingPrice": 18329.33
+  },
+  {
+    "time": 1607529000000,
+    "openingPrice": 18329.32,
+    "highestPrice": 18332,
+    "lowestPrice": 18314.45,
+    "closingPrice": 18321.24
+  },
+  {
+    "time": 1607529060000,
+    "openingPrice": 18321.24,
+    "highestPrice": 18332.84,
+    "lowestPrice": 18321.18,
+    "closingPrice": 18331.65
+  },
+  {
+    "time": 1607529120000,
+    "openingPrice": 18331.64,
+    "highestPrice": 18337.2,
+    "lowestPrice": 18330.15,
+    "closingPrice": 18335.56
+  },
+  {
+    "time": 1607529180000,
+    "openingPrice": 18335.56,
+    "highestPrice": 18349.83,
+    "lowestPrice": 18335.4,
+    "closingPrice": 18349.69
+  },
+  {
+    "time": 1607529240000,
+    "openingPrice": 18349.7,
+    "highestPrice": 18352.57,
+    "lowestPrice": 18337.29,
+    "closingPrice": 18345.97
+  },
+  {
+    "time": 1607529300000,
+    "openingPrice": 18345.98,
+    "highestPrice": 18346.92,
+    "lowestPrice": 18341.52,
+    "closingPrice": 18342.06
+  },
+  {
+    "time": 1607529360000,
+    "openingPrice": 18341.52,
+    "highestPrice": 18355,
+    "lowestPrice": 18339.5,
+    "closingPrice": 18353.28
+  },
+  {
+    "time": 1607529420000,
+    "openingPrice": 18353.27,
+    "highestPrice": 18360,
+    "lowestPrice": 18349.56,
+    "closingPrice": 18349.56
+  },
+  {
+    "time": 1607529480000,
+    "openingPrice": 18349.56,
+    "highestPrice": 18359.96,
+    "lowestPrice": 18349.56,
+    "closingPrice": 18358.84
+  },
+  {
+    "time": 1607529540000,
+    "openingPrice": 18358.83,
+    "highestPrice": 18360,
+    "lowestPrice": 18338.44,
+    "closingPrice": 18349.5
+  },
+  {
+    "time": 1607529600000,
+    "openingPrice": 18349.5,
+    "highestPrice": 18359.56,
+    "lowestPrice": 18321.68,
+    "closingPrice": 18322.74
+  },
+  {
+    "time": 1607529660000,
+    "openingPrice": 18322.75,
+    "highestPrice": 18325.96,
+    "lowestPrice": 18293.24,
+    "closingPrice": 18293.43
+  },
+  {
+    "time": 1607529720000,
+    "openingPrice": 18293.61,
+    "highestPrice": 18307.05,
+    "lowestPrice": 18286,
+    "closingPrice": 18304.24
+  },
+  {
+    "time": 1607529780000,
+    "openingPrice": 18304.25,
+    "highestPrice": 18304.42,
+    "lowestPrice": 18288.85,
+    "closingPrice": 18291.44
+  },
+  {
+    "time": 1607529840000,
+    "openingPrice": 18291.45,
+    "highestPrice": 18292.36,
+    "lowestPrice": 18279.58,
+    "closingPrice": 18290.39
+  },
+  {
+    "time": 1607529900000,
+    "openingPrice": 18288.33,
+    "highestPrice": 18322.58,
+    "lowestPrice": 18284.35,
+    "closingPrice": 18292.21
+  },
+  {
+    "time": 1607529960000,
+    "openingPrice": 18292.21,
+    "highestPrice": 18300,
+    "lowestPrice": 18288.14,
+    "closingPrice": 18300
+  },
+  {
+    "time": 1607530020000,
+    "openingPrice": 18299.91,
+    "highestPrice": 18308.34,
+    "lowestPrice": 18295.84,
+    "closingPrice": 18295.84
+  },
+  {
+    "time": 1607530080000,
+    "openingPrice": 18295.84,
+    "highestPrice": 18302.27,
+    "lowestPrice": 18292,
+    "closingPrice": 18297.78
+  },
+  {
+    "time": 1607530140000,
+    "openingPrice": 18297.78,
+    "highestPrice": 18299.98,
+    "lowestPrice": 18281.55,
+    "closingPrice": 18281.93
+  },
+  {
+    "time": 1607530200000,
+    "openingPrice": 18281.93,
+    "highestPrice": 18296.5,
+    "lowestPrice": 18281.93,
+    "closingPrice": 18282.05
+  },
+  {
+    "time": 1607530260000,
+    "openingPrice": 18282.05,
+    "highestPrice": 18301.77,
+    "lowestPrice": 18282.04,
+    "closingPrice": 18290
+  },
+  {
+    "time": 1607530320000,
+    "openingPrice": 18290.12,
+    "highestPrice": 18290.12,
+    "lowestPrice": 18275,
+    "closingPrice": 18275
+  },
+  {
+    "time": 1607530380000,
+    "openingPrice": 18275,
+    "highestPrice": 18289.23,
+    "lowestPrice": 18252.15,
+    "closingPrice": 18266.02
+  },
+  {
+    "time": 1607530440000,
+    "openingPrice": 18263.76,
+    "highestPrice": 18300,
+    "lowestPrice": 18257.89,
+    "closingPrice": 18287.15
+  },
+  {
+    "time": 1607530500000,
+    "openingPrice": 18286.58,
+    "highestPrice": 18299.15,
+    "lowestPrice": 18281.49,
+    "closingPrice": 18288.67
+  },
+  {
+    "time": 1607530560000,
+    "openingPrice": 18288.67,
+    "highestPrice": 18300,
+    "lowestPrice": 18286.12,
+    "closingPrice": 18300
+  },
+  {
+    "time": 1607530620000,
+    "openingPrice": 18299.99,
+    "highestPrice": 18320.84,
+    "lowestPrice": 18297.53,
+    "closingPrice": 18315.98
+  },
+  {
+    "time": 1607530680000,
+    "openingPrice": 18315.98,
+    "highestPrice": 18326.82,
+    "lowestPrice": 18313.9,
+    "closingPrice": 18323.9
+  },
+  {
+    "time": 1607530740000,
+    "openingPrice": 18323.91,
+    "highestPrice": 18324.45,
+    "lowestPrice": 18309.41,
+    "closingPrice": 18312.94
+  },
+  {
+    "time": 1607530800000,
+    "openingPrice": 18312.18,
+    "highestPrice": 18329.85,
+    "lowestPrice": 18309.35,
+    "closingPrice": 18320.07
+  },
+  {
+    "time": 1607530860000,
+    "openingPrice": 18320.07,
+    "highestPrice": 18320.08,
+    "lowestPrice": 18300,
+    "closingPrice": 18300
+  },
+  {
+    "time": 1607530920000,
+    "openingPrice": 18300,
+    "highestPrice": 18309.1,
+    "lowestPrice": 18296.31,
+    "closingPrice": 18296.31
+  },
+  {
+    "time": 1607530980000,
+    "openingPrice": 18296.32,
+    "highestPrice": 18308.45,
+    "lowestPrice": 18290.08,
+    "closingPrice": 18305.25
+  },
+  {
+    "time": 1607531040000,
+    "openingPrice": 18305.25,
+    "highestPrice": 18305.65,
+    "lowestPrice": 18289.32,
+    "closingPrice": 18301.8
+  },
+  {
+    "time": 1607531100000,
+    "openingPrice": 18302.66,
+    "highestPrice": 18312.99,
+    "lowestPrice": 18299.04,
+    "closingPrice": 18304.62
+  },
+  {
+    "time": 1607531160000,
+    "openingPrice": 18303.12,
+    "highestPrice": 18319.92,
+    "lowestPrice": 18299.32,
+    "closingPrice": 18318.18
+  },
+  {
+    "time": 1607531220000,
+    "openingPrice": 18318.18,
+    "highestPrice": 18318.19,
+    "lowestPrice": 18307.67,
+    "closingPrice": 18313.51
+  },
+  {
+    "time": 1607531280000,
+    "openingPrice": 18313.51,
+    "highestPrice": 18313.51,
+    "lowestPrice": 18279.79,
+    "closingPrice": 18295.94
+  },
+  {
+    "time": 1607531340000,
+    "openingPrice": 18295.94,
+    "highestPrice": 18325,
+    "lowestPrice": 18295,
+    "closingPrice": 18322.78
+  },
+  {
+    "time": 1607531400000,
+    "openingPrice": 18322.78,
+    "highestPrice": 18331,
+    "lowestPrice": 18320.86,
+    "closingPrice": 18328.88
+  },
+  {
+    "time": 1607531460000,
+    "openingPrice": 18328.89,
+    "highestPrice": 18330,
+    "lowestPrice": 18321.12,
+    "closingPrice": 18326.68
+  },
+  {
+    "time": 1607531520000,
+    "openingPrice": 18326.68,
+    "highestPrice": 18326.68,
+    "lowestPrice": 18303,
+    "closingPrice": 18304.45
+  },
+  {
+    "time": 1607531580000,
+    "openingPrice": 18304.45,
+    "highestPrice": 18306.13,
+    "lowestPrice": 18290.43,
+    "closingPrice": 18306.13
+  },
+  {
+    "time": 1607531640000,
+    "openingPrice": 18302.15,
+    "highestPrice": 18306.33,
+    "lowestPrice": 18286.34,
+    "closingPrice": 18299.33
+  },
+  {
+    "time": 1607531700000,
+    "openingPrice": 18299.32,
+    "highestPrice": 18299.33,
+    "lowestPrice": 18289.89,
+    "closingPrice": 18295.8
+  },
+  {
+    "time": 1607531760000,
+    "openingPrice": 18295.81,
+    "highestPrice": 18299.87,
+    "lowestPrice": 18287.44,
+    "closingPrice": 18289.76
+  },
+  {
+    "time": 1607531820000,
+    "openingPrice": 18289.77,
+    "highestPrice": 18315.8,
+    "lowestPrice": 18288.01,
+    "closingPrice": 18309.44
+  },
+  {
+    "time": 1607531880000,
+    "openingPrice": 18309.44,
+    "highestPrice": 18329.91,
+    "lowestPrice": 18309.44,
+    "closingPrice": 18328.99
+  },
+  {
+    "time": 1607531940000,
+    "openingPrice": 18328.98,
+    "highestPrice": 18333.03,
+    "lowestPrice": 18328.96,
+    "closingPrice": 18329.92
+  },
+  {
+    "time": 1607532000000,
+    "openingPrice": 18329.91,
+    "highestPrice": 18333.35,
+    "lowestPrice": 18318.05,
+    "closingPrice": 18318.06
+  },
+  {
+    "time": 1607532060000,
+    "openingPrice": 18318.05,
+    "highestPrice": 18327.5,
+    "lowestPrice": 18311.98,
+    "closingPrice": 18324.89
+  },
+  {
+    "time": 1607532120000,
+    "openingPrice": 18324.89,
+    "highestPrice": 18330.82,
+    "lowestPrice": 18322.65,
+    "closingPrice": 18323.99
+  },
+  {
+    "time": 1607532180000,
+    "openingPrice": 18323.98,
+    "highestPrice": 18323.99,
+    "lowestPrice": 18316,
+    "closingPrice": 18319.23
+  },
+  {
+    "time": 1607532240000,
+    "openingPrice": 18319.23,
+    "highestPrice": 18321,
+    "lowestPrice": 18313.21,
+    "closingPrice": 18320.72
+  },
+  {
+    "time": 1607532300000,
+    "openingPrice": 18320.71,
+    "highestPrice": 18341,
+    "lowestPrice": 18320.71,
+    "closingPrice": 18340.99
+  },
+  {
+    "time": 1607532360000,
+    "openingPrice": 18340.99,
+    "highestPrice": 18347.01,
+    "lowestPrice": 18340.99,
+    "closingPrice": 18343.82
+  },
+  {
+    "time": 1607532420000,
+    "openingPrice": 18343.82,
+    "highestPrice": 18350.06,
+    "lowestPrice": 18343.8,
+    "closingPrice": 18350.06
+  },
+  {
+    "time": 1607532480000,
+    "openingPrice": 18350.05,
+    "highestPrice": 18370.49,
+    "lowestPrice": 18350.05,
+    "closingPrice": 18370.49
+  },
+  {
+    "time": 1607532540000,
+    "openingPrice": 18370.49,
+    "highestPrice": 18382.37,
+    "lowestPrice": 18370.48,
+    "closingPrice": 18382.37
+  },
+  {
+    "time": 1607532600000,
+    "openingPrice": 18382.37,
+    "highestPrice": 18391.56,
+    "lowestPrice": 18375.33,
+    "closingPrice": 18375.53
+  },
+  {
+    "time": 1607532660000,
+    "openingPrice": 18375.19,
+    "highestPrice": 18386.87,
+    "lowestPrice": 18373.64,
+    "closingPrice": 18380.78
+  },
+  {
+    "time": 1607532720000,
+    "openingPrice": 18380.78,
+    "highestPrice": 18380.78,
+    "lowestPrice": 18373.28,
+    "closingPrice": 18373.29
+  },
+  {
+    "time": 1607532780000,
+    "openingPrice": 18373.28,
+    "highestPrice": 18392,
+    "lowestPrice": 18370,
+    "closingPrice": 18377.47
+  },
+  {
+    "time": 1607532840000,
+    "openingPrice": 18377.47,
+    "highestPrice": 18385.48,
+    "lowestPrice": 18372.18,
+    "closingPrice": 18383.63
+  },
+  {
+    "time": 1607532900000,
+    "openingPrice": 18383.62,
+    "highestPrice": 18385.01,
+    "lowestPrice": 18376.44,
+    "closingPrice": 18380.88
+  },
+  {
+    "time": 1607532960000,
+    "openingPrice": 18380.87,
+    "highestPrice": 18387.34,
+    "lowestPrice": 18379.33,
+    "closingPrice": 18382.95
+  },
+  {
+    "time": 1607533020000,
+    "openingPrice": 18382.94,
+    "highestPrice": 18390.09,
+    "lowestPrice": 18367.46,
+    "closingPrice": 18387.78
+  },
+  {
+    "time": 1607533080000,
+    "openingPrice": 18387.78,
+    "highestPrice": 18391.4,
+    "lowestPrice": 18387.76,
+    "closingPrice": 18388.86
+  },
+  {
+    "time": 1607533140000,
+    "openingPrice": 18388.85,
+    "highestPrice": 18390.07,
+    "lowestPrice": 18385.5,
+    "closingPrice": 18389.74
+  },
+  {
+    "time": 1607533200000,
+    "openingPrice": 18389.73,
+    "highestPrice": 18390.71,
+    "lowestPrice": 18385.03,
+    "closingPrice": 18387.57
+  },
+  {
+    "time": 1607533260000,
+    "openingPrice": 18387.56,
+    "highestPrice": 18390,
+    "lowestPrice": 18375.72,
+    "closingPrice": 18387.85
+  },
+  {
+    "time": 1607533320000,
+    "openingPrice": 18387.85,
+    "highestPrice": 18389.64,
+    "lowestPrice": 18366.52,
+    "closingPrice": 18367.23
+  },
+  {
+    "time": 1607533380000,
+    "openingPrice": 18367.23,
+    "highestPrice": 18379.5,
+    "lowestPrice": 18367.22,
+    "closingPrice": 18373.73
+  },
+  {
+    "time": 1607533440000,
+    "openingPrice": 18373.73,
+    "highestPrice": 18379.54,
+    "lowestPrice": 18370.16,
+    "closingPrice": 18375.65
+  },
+  {
+    "time": 1607533500000,
+    "openingPrice": 18376,
+    "highestPrice": 18376.35,
+    "lowestPrice": 18371,
+    "closingPrice": 18372.8
+  },
+  {
+    "time": 1607533560000,
+    "openingPrice": 18372.8,
+    "highestPrice": 18373.99,
+    "lowestPrice": 18371,
+    "closingPrice": 18372.23
+  },
+  {
+    "time": 1607533620000,
+    "openingPrice": 18372.22,
+    "highestPrice": 18394.25,
+    "lowestPrice": 18371,
+    "closingPrice": 18390
+  },
+  {
+    "time": 1607533680000,
+    "openingPrice": 18389.99,
+    "highestPrice": 18399.67,
+    "lowestPrice": 18389.99,
+    "closingPrice": 18396.8
+  },
+  {
+    "time": 1607533740000,
+    "openingPrice": 18396.79,
+    "highestPrice": 18427.88,
+    "lowestPrice": 18396.79,
+    "closingPrice": 18410.14
+  },
+  {
+    "time": 1607533800000,
+    "openingPrice": 18410.77,
+    "highestPrice": 18415,
+    "lowestPrice": 18379,
+    "closingPrice": 18389.51
+  },
+  {
+    "time": 1607533860000,
+    "openingPrice": 18389.52,
+    "highestPrice": 18392.9,
+    "lowestPrice": 18383.12,
+    "closingPrice": 18391.04
+  },
+  {
+    "time": 1607533920000,
+    "openingPrice": 18391.04,
+    "highestPrice": 18400.5,
+    "lowestPrice": 18390.07,
+    "closingPrice": 18399.26
+  },
+  {
+    "time": 1607533980000,
+    "openingPrice": 18399.26,
+    "highestPrice": 18420,
+    "lowestPrice": 18386.01,
+    "closingPrice": 18389.12
+  },
+  {
+    "time": 1607534040000,
+    "openingPrice": 18388.89,
+    "highestPrice": 18407.15,
+    "lowestPrice": 18387.1,
+    "closingPrice": 18404.16
+  },
+  {
+    "time": 1607534100000,
+    "openingPrice": 18404.15,
+    "highestPrice": 18434,
+    "lowestPrice": 18402.94,
+    "closingPrice": 18430.7
+  },
+  {
+    "time": 1607534160000,
+    "openingPrice": 18432.73,
+    "highestPrice": 18435,
+    "lowestPrice": 18416.36,
+    "closingPrice": 18418.59
+  },
+  {
+    "time": 1607534220000,
+    "openingPrice": 18418.64,
+    "highestPrice": 18421.5,
+    "lowestPrice": 18409.36,
+    "closingPrice": 18417.3
+  },
+  {
+    "time": 1607534280000,
+    "openingPrice": 18417.31,
+    "highestPrice": 18419,
+    "lowestPrice": 18405.88,
+    "closingPrice": 18412
+  }
+]

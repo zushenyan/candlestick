@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 
-import KlinePage from '../KlinePage';
+import CandlestickChartPage from '../CandlestickChartPage';
 import WidgetPage from '../WidgetPage';
 
 const Root: React.FC<unknown> = () => {
@@ -20,7 +20,7 @@ const Root: React.FC<unknown> = () => {
 
       <Switch>
         <Route path="/kline">
-          <KlinePage />
+          <CandlestickChartPage />
         </Route>
         <Route path="/widget">
           <WidgetPage />
