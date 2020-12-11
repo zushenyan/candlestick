@@ -6,6 +6,7 @@ import {
   MachineConfig,
   DoneInvokeEvent,
   assign,
+  send,
 } from 'xstate';
 
 import * as productsSockets from '../../services/sockets/products';
@@ -22,26 +23,6 @@ export interface DataElement {
   parentMarket: string;
   category: string;
 }
-
-export interface Context {
-  data: Map<string, DataElement>;
-}
-
-export interface States {
-  states: {
-    init: Record<string, unknown>;
-    ready: Record<string, unknown>;
-    errorSocket: Record<string, unknown>;
-    errorData: Record<string, unknown>;
-  };
-}
-
-export type MessageEvent = {
-  type: 'MESSAGE';
-  data: DataElement[];
-};
-export type SocketErrorEvent = { type: 'SOCKET_ERROR' };
-export type Events = MessageEvent | SocketErrorEvent;
 
 const createDataElement = ({
   s,
@@ -65,8 +46,53 @@ const createDataElement = ({
   category: pn,
 });
 
+export interface Context {
+  filterValue: string;
+  options: string[];
+  data: Map<string, DataElement>;
+}
+
+export interface States {
+  states: {
+    init: Record<string, unknown>;
+    ready: {
+      states: {
+        connecting: Record<string, unknown>;
+        connected: Record<string, unknown>;
+        disconnected: Record<string, unknown>;
+        error: Record<string, unknown>;
+      };
+    };
+    errorData: Record<string, unknown>;
+  };
+}
+
+export type MessageEvent = {
+  type: 'MESSAGE';
+  data: DataElement[];
+};
+export type SetFilterValueEvent = { type: 'SET_FILTER_VALUE'; value: string };
+export type SocketErrorEvent = { type: 'SOCKET_ERROR' };
+export type SocketConnectedEvent = { type: 'CONNECTED' };
+export type SocketReconnectEvent = { type: 'RECONNECT' };
+export type SocketDisonnectEvent = { type: 'DISCONNECT' };
+export type Events =
+  | MessageEvent
+  | SocketErrorEvent
+  | SetFilterValueEvent
+  | SocketConnectedEvent
+  | SocketReconnectEvent
+  | SocketDisonnectEvent;
+
+const defaultContext: Context = {
+  filterValue: '',
+  options: [],
+  data: new Map(),
+};
+
 export const config: MachineConfig<Context, States, Events> = {
   initial: 'init',
+  context: defaultContext,
   states: {
     init: {
       invoke: {
@@ -74,25 +100,63 @@ export const config: MachineConfig<Context, States, Events> = {
         src: 'getData',
         onDone: {
           target: 'ready',
-          actions: 'setData',
+          actions: ['setData', 'initOptions', 'initFilterValue'],
         },
         onError: 'errorData',
       },
     },
     ready: {
       invoke: {
-        id: 'initSocket',
+        id: 'productSocket',
         src: 'initProductsStream',
       },
       on: {
-        MESSAGE: {
-          actions: ['setStreamData'],
+        SET_FILTER_VALUE: {
+          actions: ['setFilterValue'],
         },
-        SOCKET_ERROR: 'errorSocket',
+        SOCKET_ERROR: '.error',
+      },
+      initial: 'connecting',
+      states: {
+        connecting: {
+          on: {
+            CONNECTED: 'connected',
+          },
+        },
+        connected: {
+          on: {
+            DISCONNECT: {
+              target: 'disconnected',
+              actions: [send('DISCONNECT', { to: 'productSocket' })],
+            },
+            MESSAGE: {
+              actions: ['setStreamData'],
+            },
+          },
+        },
+        disconnected: {
+          on: {
+            RECONNECT: {
+              target: 'connecting',
+              actions: [send('RECONNECT', { to: 'productSocket' })],
+            },
+          },
+        },
+        error: {
+          after: {
+            3000: {
+              target: 'connecting',
+              actions: [send('RECONNECT', { to: 'productSocket' })],
+            },
+          },
+        },
       },
     },
-    errorSocket: {},
-    errorData: {},
+    errorData: {
+      after: {
+        3000: 'init',
+      },
+    },
   },
 };
 
@@ -109,6 +173,21 @@ export const options: MachineOptions<Context, Events> = {
         ]);
         return new Map(arr);
       },
+    }) as any,
+    initOptions: assign<Context>({
+      options: (context: Context) => {
+        const oSet = new Set<string>();
+        context.data.forEach((v) => {
+          oSet.add(v.parentMarket);
+        });
+        return Array.from(oSet.values());
+      },
+    }) as any,
+    initFilterValue: assign<Context>({
+      filterValue: (context: Context) => context.options[0],
+    }) as any,
+    setFilterValue: assign<Context, SetFilterValueEvent>({
+      filterValue: (_: Context, event: SetFilterValueEvent) => event.value,
     }) as any,
     setStreamData: assign<Context, MessageEvent>({
       data: (context: Context, event: MessageEvent) => {
@@ -134,30 +213,51 @@ export const options: MachineOptions<Context, Events> = {
   services: {
     getData: (): Promise<productsApis.ProductsRepsonse> =>
       productsApis.getProducts(),
-    initProductsStream: (context: Context, events: Events) => (
-      cb,
-      onReceive
-    ) => {
-      const socket = productsSockets.createProductsStream();
-      socket.addEventListener('message', (e) => {
-        const res: productsSockets.Resposne = JSON.parse(e.data);
-        const data = res.data.map((d) =>
-          createDataElement({
-            s: d.s,
-            b: '',
-            q: d.q,
-            o: +d.o,
-            h: +d.h,
-            l: +d.l,
-            c: +d.c,
-            pm: '',
-            pn: '',
-          })
-        );
-        cb({ type: 'MESSAGE', data });
-      });
-      socket.addEventListener('error', (e) => {
-        cb({ type: 'SOCKET_ERROR' });
+    initProductsStream: () => (cb, onReceive) => {
+      let socket = productsSockets.createProductsStream();
+
+      const init = (s: WebSocket) => {
+        s.addEventListener('open', () => {
+          cb({ type: 'CONNECTED' });
+        });
+
+        s.addEventListener('message', (e) => {
+          const res: productsSockets.Resposne = JSON.parse(e.data);
+          const data = res.data.map((d) =>
+            createDataElement({
+              s: d.s,
+              b: '',
+              q: d.q,
+              o: +d.o,
+              h: +d.h,
+              l: +d.l,
+              c: +d.c,
+              pm: '',
+              pn: '',
+            })
+          );
+          cb({ type: 'MESSAGE', data });
+        });
+
+        s.addEventListener('error', (e) => {
+          cb({ type: 'SOCKET_ERROR' });
+        });
+      };
+
+      init(socket);
+
+      onReceive((e) => {
+        switch (e.type) {
+          case 'RECONNECT': {
+            socket = productsSockets.createProductsStream();
+            init(socket);
+            break;
+          }
+          case 'DISCONNECT': {
+            socket.close();
+            break;
+          }
+        }
       });
     },
   },
