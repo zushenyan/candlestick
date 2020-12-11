@@ -17,9 +17,6 @@ const WidgetPage: React.FC<unknown> = () => {
       parentMarket: p.parentMarket,
     }));
 
-  // console.log(current.value);
-  console.log(current.value);
-
   return (
     <>
       <button

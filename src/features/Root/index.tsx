@@ -10,7 +10,7 @@ const Root: React.FC<unknown> = () => {
       <div>
         <ul>
           <li>
-            <Link to="/kline">kline</Link>
+            <Link to="/candlestick_chart">candlestick chart</Link>
           </li>
           <li>
             <Link to="/widget">widget</Link>
@@ -19,7 +19,7 @@ const Root: React.FC<unknown> = () => {
       </div>
 
       <Switch>
-        <Route path="/kline">
+        <Route path="/candlestick_chart">
           <CandlestickChartPage />
         </Route>
         <Route path="/widget">
