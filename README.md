@@ -13,6 +13,14 @@ Just an assignment about
 
 # Screenshots
 
+<p align="center">
+  <img src="https://github.com/zushenyan/candlestick/blob/main/img/candlestick.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/zushenyan/candlestick/blob/main/img/widget.png">
+</p>
+
 # Tools
 
 - React
