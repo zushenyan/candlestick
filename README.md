@@ -2,8 +2,21 @@
 
 Just an assignment about
 
-- rendering a candlestick chart with canvas and keep pulling the latest data with websocket.
-- a small widget about pulling data with websocket and filtering data.
+### Candlestick Chart
+
+<p align="center">
+  <img src="https://github.com/zushenyan/candlestick/blob/main/img/candlestick.png">
+</p>
+
+Rendering a candlestick chart with canvas and keep pulling the latest data with websocket.
+
+### Widget
+
+<p align="center">
+  <img src="https://github.com/zushenyan/candlestick/blob/main/img/widget.png">
+</p>
+
+A small widget about pulling data with websocket and filtering data.
 
 # Setup
 
@@ -11,17 +24,7 @@ Just an assignment about
 2. `yarn instlal`
 3. `yarn run start` to run the program.
 
-# Screenshots
-
-<p align="center">
-  <img src="https://github.com/zushenyan/candlestick/blob/main/img/candlestick.png">
-</p>
-
-<p align="center">
-  <img src="https://github.com/zushenyan/candlestick/blob/main/img/widget.png">
-</p>
-
-# Tools
+# Tech Stack
 
 - React
 - TypeScript
