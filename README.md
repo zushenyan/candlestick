@@ -2,7 +2,7 @@
 
 Just an assignment about
 
-- rendering a candlestick chart with canvas.
+- rendering a candlestick chart with canvas and keep pulling the latest data with websocket.
 - a small widget about pulling data with websocket and filtering data.
 
 # Setup
