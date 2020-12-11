@@ -23,6 +23,7 @@ A small widget about pulling data with websocket and filtering data.
 1. `nvm install`
 2. `yarn instlal`
 3. `yarn run start` to run the program.
+4. `yarn run cypress:open` for e2e testing for widget page.
 
 # Tech Stack
 
@@ -33,3 +34,4 @@ A small widget about pulling data with websocket and filtering data.
 - react-table
 - xstate
 - d3-scale
+- cypress
