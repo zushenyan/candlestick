@@ -1,6 +1,6 @@
 # Intro
 
-Just an assignment about
+Just an assignment about:
 
 ### Candlestick Chart
 
